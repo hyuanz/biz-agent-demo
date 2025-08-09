@@ -1,0 +1,3752 @@
+[
+  {
+    "id": "427f99b9-f2de-4181-be33-eb0477c96388",
+    "user_id": "8a1b9210-023e-4db6-b30e-eba409279a8d",
+    "items_count": 1,
+    "total_amount": 62.0,
+    "currency": "GBP",
+    "product": "Bed Frame",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-31T20:44:55.163741Z"
+  },
+  {
+    "id": "92298788-24f3-4d77-ba97-9fac9280ff1f",
+    "user_id": "99a30d30-7b13-47e5-8fa4-84c2793fe0f0",
+    "items_count": 3,
+    "total_amount": 987.0,
+    "currency": "USD",
+    "product": "Protector",
+    "payment_method": "card",
+    "purchased_at": "2025-08-07T21:02:55.163741Z"
+  },
+  {
+    "id": "2c943e85-4120-4d12-8433-eabe43c303c8",
+    "user_id": "5d8ca578-2453-4c26-a2bd-282cd678742d",
+    "items_count": 1,
+    "total_amount": 308.0,
+    "currency": "USD",
+    "product": "Bed Frame",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-25T08:54:55.163741Z"
+  },
+  {
+    "id": "28751ca2-3108-407c-93bf-72b612828c52",
+    "user_id": "e4f2aa08-5235-4b56-a50e-82ab91fdaa9c",
+    "items_count": 2,
+    "total_amount": 106.0,
+    "currency": "EUR",
+    "product": "Protector",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-22T18:55:55.163741Z"
+  },
+  {
+    "id": "33d083a6-2498-4bea-916b-d3c4c2ebcc31",
+    "user_id": "5d8ca578-2453-4c26-a2bd-282cd678742d",
+    "items_count": 2,
+    "total_amount": 204.0,
+    "currency": "USD",
+    "product": "Protector",
+    "payment_method": "card",
+    "purchased_at": "2025-07-17T12:29:55.163741Z"
+  },
+  {
+    "id": "5999e990-1ac3-4cbc-89c8-33b65b51d9dc",
+    "user_id": "5b788c06-491d-4206-9d10-1e6bfa254839",
+    "items_count": 2,
+    "total_amount": 144.0,
+    "currency": "CAD",
+    "product": "Cooling Mattress",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-03T05:23:55.163741Z"
+  },
+  {
+    "id": "157fc9db-4a8b-4f21-8b7d-2e79630c063f",
+    "user_id": "dec4a03b-7cb1-4a0f-af4f-6e913bd01dfb",
+    "items_count": 3,
+    "total_amount": 1098.0,
+    "currency": "GBP",
+    "product": "Bed Frame",
+    "payment_method": "card",
+    "purchased_at": "2025-08-06T01:39:55.163741Z"
+  },
+  {
+    "id": "e0542bdc-f391-426c-bdc3-ed392988714b",
+    "user_id": "ecc3444d-e9fb-47c9-af8d-923a2538383d",
+    "items_count": 2,
+    "total_amount": 180.0,
+    "currency": "EUR",
+    "product": "Cooling Mattress",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-22T08:45:55.163741Z"
+  },
+  {
+    "id": "49173cb8-3711-4cb9-8191-be22f4e98a97",
+    "user_id": "8a1b9210-023e-4db6-b30e-eba409279a8d",
+    "items_count": 2,
+    "total_amount": 266.0,
+    "currency": "GBP",
+    "product": "Duvet",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-27T15:07:55.163741Z"
+  },
+  {
+    "id": "29bfc6e5-60a0-4f84-9746-e99fc6a4ec21",
+    "user_id": "50cc5d51-100d-4a4a-82e3-39e28352ed25",
+    "items_count": 3,
+    "total_amount": 1143.0,
+    "currency": "USD",
+    "product": "Smart Pillow",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-29T08:27:55.163741Z"
+  },
+  {
+    "id": "587603ca-8a77-4f3b-bf59-7901b8173627",
+    "user_id": "3a2a3ff8-734e-4c92-925e-e365a3922023",
+    "items_count": 2,
+    "total_amount": 754.0,
+    "currency": "EUR",
+    "product": "Duvet",
+    "payment_method": "card",
+    "purchased_at": "2025-07-25T23:08:55.163741Z"
+  },
+  {
+    "id": "0479b748-1387-4273-9829-418a63c398fc",
+    "user_id": "d80a3849-602d-41be-81ce-ec74c12f3baf",
+    "items_count": 2,
+    "total_amount": 374.0,
+    "currency": "USD",
+    "product": "Bed Frame",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-26T01:51:55.163741Z"
+  },
+  {
+    "id": "dfa6ff66-f7f8-4bd8-9301-5929918766e5",
+    "user_id": "4f43ff83-d511-42f0-9c52-921cac2c78a6",
+    "items_count": 2,
+    "total_amount": 758.0,
+    "currency": "CAD",
+    "product": "Smart Pillow",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-31T15:48:55.163741Z"
+  },
+  {
+    "id": "88d94ec3-4d17-4e0f-999d-1730fd5ad657",
+    "user_id": "e697b7b9-2196-4eb9-a689-fdd5758626ba",
+    "items_count": 3,
+    "total_amount": 975.0,
+    "currency": "GBP",
+    "product": "Protector",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-16T16:44:55.163741Z"
+  },
+  {
+    "id": "0cc95052-53ce-4d50-b9e3-bde004a19a35",
+    "user_id": "99598199-55bb-449a-b9b2-f9893375efb6",
+    "items_count": 3,
+    "total_amount": 906.0,
+    "currency": "USD",
+    "product": "Pod Cover",
+    "payment_method": "card",
+    "purchased_at": "2025-07-30T02:48:55.163741Z"
+  },
+  {
+    "id": "0a9a53bc-b14b-42c9-a628-1203f1cd935b",
+    "user_id": "f87b4781-9ca7-42eb-b866-611b2ddfaacf",
+    "items_count": 3,
+    "total_amount": 798.0,
+    "currency": "USD",
+    "product": "Protector",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-01T08:15:55.163741Z"
+  },
+  {
+    "id": "4cf9d04a-31a3-483e-a4e0-146e73fa7351",
+    "user_id": "9f2acc9a-7642-4965-a842-c7b4ea19f53a",
+    "items_count": 2,
+    "total_amount": 666.0,
+    "currency": "USD",
+    "product": "Cooling Mattress",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-20T02:21:55.163741Z"
+  },
+  {
+    "id": "faf66c22-a455-44d8-a372-e3d5ff2f828b",
+    "user_id": "1f309952-0aa3-4fb0-a060-0c44c41526f9",
+    "items_count": 1,
+    "total_amount": 200.0,
+    "currency": "CAD",
+    "product": "Smart Pillow",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-08T15:14:55.163741Z"
+  },
+  {
+    "id": "4f0ae222-8da3-4f41-8c33-9d70db9f2f2a",
+    "user_id": "31a45135-b2dd-44ec-8a69-54b803b0495c",
+    "items_count": 1,
+    "total_amount": 309.0,
+    "currency": "USD",
+    "product": "Sheet Set",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-30T11:28:55.163741Z"
+  },
+  {
+    "id": "9dacb670-fe59-47bd-8cde-4fcbb10f7cb8",
+    "user_id": "43a9dbda-c458-49c0-9660-ae77d5899eaa",
+    "items_count": 1,
+    "total_amount": 326.0,
+    "currency": "USD",
+    "product": "Duvet",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-07T20:24:55.163741Z"
+  },
+  {
+    "id": "e35e1c56-93e8-4a66-9ad4-b524de1a99bf",
+    "user_id": "e6deabb3-0de5-43d2-89a1-06c0f6feb8ca",
+    "items_count": 2,
+    "total_amount": 344.0,
+    "currency": "USD",
+    "product": "Bed Frame",
+    "payment_method": "card",
+    "purchased_at": "2025-08-03T07:38:55.163741Z"
+  },
+  {
+    "id": "30069304-fe78-42f2-8b2d-2a708357f39c",
+    "user_id": "06480127-a897-438d-b5b6-b09fb290d656",
+    "items_count": 3,
+    "total_amount": 342.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-23T06:13:55.163741Z"
+  },
+  {
+    "id": "013d539e-f01c-40a4-9f34-991d6f106dbf",
+    "user_id": "5b788c06-491d-4206-9d10-1e6bfa254839",
+    "items_count": 2,
+    "total_amount": 316.0,
+    "currency": "EUR",
+    "product": "Sheet Set",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-27T02:03:55.163741Z"
+  },
+  {
+    "id": "b1880293-6379-4110-b3b1-58d581d3f834",
+    "user_id": "3f4ed014-d00c-453f-84fd-989c4cb52ff3",
+    "items_count": 2,
+    "total_amount": 628.0,
+    "currency": "CAD",
+    "product": "Cooling Mattress",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-25T22:02:55.163741Z"
+  },
+  {
+    "id": "dec4012c-4af0-4ae9-9764-714fe2b30434",
+    "user_id": "1f309952-0aa3-4fb0-a060-0c44c41526f9",
+    "items_count": 1,
+    "total_amount": 351.0,
+    "currency": "EUR",
+    "product": "Bed Frame",
+    "payment_method": "card",
+    "purchased_at": "2025-08-04T02:41:55.163741Z"
+  },
+  {
+    "id": "d11a48ce-f2d3-4c29-aad4-a9d9cf1a6133",
+    "user_id": "57dd69c3-2277-4e18-945b-bcf93f3c8a36",
+    "items_count": 1,
+    "total_amount": 84.0,
+    "currency": "USD",
+    "product": "Duvet",
+    "payment_method": "card",
+    "purchased_at": "2025-07-07T16:06:55.163741Z"
+  },
+  {
+    "id": "a652837c-f385-4e51-bc0e-69716e17171b",
+    "user_id": "7914346d-543b-4855-b689-1287d6043409",
+    "items_count": 3,
+    "total_amount": 894.0,
+    "currency": "EUR",
+    "product": "Smart Pillow",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-24T08:05:55.163741Z"
+  },
+  {
+    "id": "c5931cd5-bd1d-49e4-9682-eb38e8352b30",
+    "user_id": "14ac17ff-433f-4fc9-bf1b-f2e0825627f0",
+    "items_count": 1,
+    "total_amount": 98.0,
+    "currency": "USD",
+    "product": "Protector",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-12T10:12:55.163741Z"
+  },
+  {
+    "id": "07f71b29-af87-444a-9415-5668b023cb4b",
+    "user_id": "a1d5d30c-1eef-4aaf-a526-77288b2daeae",
+    "items_count": 3,
+    "total_amount": 231.0,
+    "currency": "USD",
+    "product": "Pod Cover",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-23T12:39:55.163741Z"
+  },
+  {
+    "id": "1fb8b79d-3331-437e-8868-fc4d77f0789c",
+    "user_id": "dff35862-8a5c-4d2e-98de-30b44f6f283c",
+    "items_count": 1,
+    "total_amount": 148.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-12T17:58:55.163741Z"
+  },
+  {
+    "id": "94b4de9e-9b5b-486e-bfc9-93027e65b2dd",
+    "user_id": "7914346d-543b-4855-b689-1287d6043409",
+    "items_count": 2,
+    "total_amount": 354.0,
+    "currency": "USD",
+    "product": "Travel Case",
+    "payment_method": "card",
+    "purchased_at": "2025-08-05T01:58:55.163741Z"
+  },
+  {
+    "id": "73eb79d8-f54a-4223-a2b9-b1c19c8a73e1",
+    "user_id": "9f39a3af-ea0a-4528-8f4a-130d22ee3e96",
+    "items_count": 1,
+    "total_amount": 97.0,
+    "currency": "EUR",
+    "product": "Smart Pillow",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-08T07:48:55.163741Z"
+  },
+  {
+    "id": "6fd28b40-ce65-48ec-8155-2aca68d5bb74",
+    "user_id": "5d8ca578-2453-4c26-a2bd-282cd678742d",
+    "items_count": 2,
+    "total_amount": 160.0,
+    "currency": "EUR",
+    "product": "Protector",
+    "payment_method": "card",
+    "purchased_at": "2025-07-15T15:10:55.163741Z"
+  },
+  {
+    "id": "6c75602b-6ffb-4497-baa9-5a5cbfb8b0f2",
+    "user_id": "59dca371-dc77-4545-bd4f-18cc4c1cb009",
+    "items_count": 2,
+    "total_amount": 532.0,
+    "currency": "CAD",
+    "product": "Smart Pillow",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-21T16:48:55.163741Z"
+  },
+  {
+    "id": "4a8484ea-787c-417d-9715-ab9f2e09eaf1",
+    "user_id": "57dd69c3-2277-4e18-945b-bcf93f3c8a36",
+    "items_count": 3,
+    "total_amount": 981.0,
+    "currency": "USD",
+    "product": "Duvet",
+    "payment_method": "card",
+    "purchased_at": "2025-08-05T04:17:55.163741Z"
+  },
+  {
+    "id": "7ea6065e-5057-4ff8-acd4-a4158cbba1cc",
+    "user_id": "51e15e70-02e2-4f25-af16-9cc9bf58eebb",
+    "items_count": 3,
+    "total_amount": 963.0,
+    "currency": "EUR",
+    "product": "Pod Cover",
+    "payment_method": "card",
+    "purchased_at": "2025-06-15T17:53:55.163741Z"
+  },
+  {
+    "id": "a02e0341-aa2c-4ef3-ad11-5f680dbd25f8",
+    "user_id": "06480127-a897-438d-b5b6-b09fb290d656",
+    "items_count": 3,
+    "total_amount": 252.0,
+    "currency": "EUR",
+    "product": "Protector",
+    "payment_method": "card",
+    "purchased_at": "2025-06-09T04:47:55.163741Z"
+  },
+  {
+    "id": "f2fb2f5c-d3ea-42c5-831f-e1780f1afec2",
+    "user_id": "2190c111-eebb-4f07-a124-ab8254aaf458",
+    "items_count": 3,
+    "total_amount": 1062.0,
+    "currency": "USD",
+    "product": "Cooling Mattress",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-27T04:18:55.163741Z"
+  },
+  {
+    "id": "4f0c92e1-bb6d-4704-b172-34b18f9dcaaa",
+    "user_id": "7281e1df-b93a-4ade-b1a2-2e3a58ae975c",
+    "items_count": 3,
+    "total_amount": 633.0,
+    "currency": "GBP",
+    "product": "Bed Frame",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-24T15:10:55.163741Z"
+  },
+  {
+    "id": "d04b2109-1362-4ba1-ab1d-fd6b3a71d479",
+    "user_id": "e557252e-6ab6-404e-8146-42bfcc79bb3c",
+    "items_count": 1,
+    "total_amount": 393.0,
+    "currency": "GBP",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-10T21:45:55.163741Z"
+  },
+  {
+    "id": "b0bc47fb-e4ac-48ed-acc8-0821a123d56a",
+    "user_id": "37d340bd-b96c-4a8a-a03e-1f086599e027",
+    "items_count": 2,
+    "total_amount": 736.0,
+    "currency": "USD",
+    "product": "Cooling Mattress",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-07T15:10:55.163741Z"
+  },
+  {
+    "id": "1aaaeb4c-b717-451e-92eb-b2e8d9b7741e",
+    "user_id": "b72b8389-ac62-48b5-8645-b60593154855",
+    "items_count": 2,
+    "total_amount": 170.0,
+    "currency": "EUR",
+    "product": "Duvet",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-29T09:16:55.163741Z"
+  },
+  {
+    "id": "f4c10673-a556-4655-9695-bacb496a3195",
+    "user_id": "9f39a3af-ea0a-4528-8f4a-130d22ee3e96",
+    "items_count": 3,
+    "total_amount": 612.0,
+    "currency": "USD",
+    "product": "Sheet Set",
+    "payment_method": "card",
+    "purchased_at": "2025-06-09T19:38:55.163741Z"
+  },
+  {
+    "id": "3fab7097-caa4-42a6-a6fc-d5633abb2154",
+    "user_id": "6a78e1e1-c833-4399-bd41-d8fb60f908b3",
+    "items_count": 1,
+    "total_amount": 104.0,
+    "currency": "EUR",
+    "product": "Sheet Set",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-01T17:02:55.163741Z"
+  },
+  {
+    "id": "3820674c-ebeb-4fe1-a968-3de258b7b933",
+    "user_id": "8781ea3d-13e5-4f14-be16-0ffcb5810a05",
+    "items_count": 2,
+    "total_amount": 308.0,
+    "currency": "GBP",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-12T22:29:55.163741Z"
+  },
+  {
+    "id": "621d4644-fe8d-4093-8f35-c1585ea18dc5",
+    "user_id": "4ad4189c-7946-40b7-b144-1c0934a87348",
+    "items_count": 3,
+    "total_amount": 798.0,
+    "currency": "GBP",
+    "product": "Pod Cover",
+    "payment_method": "card",
+    "purchased_at": "2025-07-18T19:46:55.163741Z"
+  },
+  {
+    "id": "76f81570-2a0e-471b-8d8f-664cce13306e",
+    "user_id": "8a1b9210-023e-4db6-b30e-eba409279a8d",
+    "items_count": 2,
+    "total_amount": 264.0,
+    "currency": "CAD",
+    "product": "Protector",
+    "payment_method": "card",
+    "purchased_at": "2025-08-01T21:39:55.163741Z"
+  },
+  {
+    "id": "56a0f11b-e2ad-4c00-9120-c66e2095275f",
+    "user_id": "1c286a76-b03f-42a0-9209-f6939c715bbc",
+    "items_count": 1,
+    "total_amount": 329.0,
+    "currency": "USD",
+    "product": "Duvet",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-12T19:52:55.163741Z"
+  },
+  {
+    "id": "540e343d-28e5-4339-93a1-4dbc54fd16ea",
+    "user_id": "c68b6fe2-464b-4f53-b5a2-fb472d333195",
+    "items_count": 2,
+    "total_amount": 472.0,
+    "currency": "USD",
+    "product": "Duvet",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-26T15:42:55.163741Z"
+  },
+  {
+    "id": "02b7a7c8-9498-439b-9bed-b484a3a0bfa3",
+    "user_id": "ae5ee390-2a89-4b33-9765-96f7f4e060ad",
+    "items_count": 1,
+    "total_amount": 231.0,
+    "currency": "CAD",
+    "product": "Smart Pillow",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-14T18:41:55.163741Z"
+  },
+  {
+    "id": "ec6c0f7b-b16c-477f-a84e-c979cbc0d6d7",
+    "user_id": "9f1ea8cd-345c-4878-afa9-97808670492b",
+    "items_count": 2,
+    "total_amount": 124.0,
+    "currency": "EUR",
+    "product": "Duvet",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-18T01:22:55.163741Z"
+  },
+  {
+    "id": "78fd3210-45e3-4f9d-9b39-110b97a6679c",
+    "user_id": "d11f57c2-d2c1-4479-a546-83b9476315f9",
+    "items_count": 1,
+    "total_amount": 186.0,
+    "currency": "EUR",
+    "product": "Cooling Mattress",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-14T22:54:55.163741Z"
+  },
+  {
+    "id": "a3799677-39a6-4384-8935-6ff86d60e6f2",
+    "user_id": "f3025738-f7df-4ad8-988c-2c56cb8e9480",
+    "items_count": 1,
+    "total_amount": 152.0,
+    "currency": "CAD",
+    "product": "Duvet",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-17T16:27:55.163741Z"
+  },
+  {
+    "id": "94d75e90-4fb4-4b35-96ac-09c923a16b69",
+    "user_id": "43d2d64f-45b7-4a92-9a1e-e256b04f1cb3",
+    "items_count": 1,
+    "total_amount": 387.0,
+    "currency": "EUR",
+    "product": "Protector",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-22T21:51:55.163741Z"
+  },
+  {
+    "id": "40f622bd-2e15-4f55-bbec-24efd4b4794a",
+    "user_id": "c53755ba-d427-4783-903a-a1133c8c4d49",
+    "items_count": 2,
+    "total_amount": 458.0,
+    "currency": "CAD",
+    "product": "Duvet",
+    "payment_method": "card",
+    "purchased_at": "2025-08-01T15:19:55.163741Z"
+  },
+  {
+    "id": "3584015f-ba0b-451c-a56c-e09798ef21d2",
+    "user_id": "9f1ea8cd-345c-4878-afa9-97808670492b",
+    "items_count": 3,
+    "total_amount": 555.0,
+    "currency": "USD",
+    "product": "Cooling Mattress",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-17T13:31:55.163741Z"
+  },
+  {
+    "id": "75b4239d-821c-449d-86d6-b9fe2ac1ee67",
+    "user_id": "83f89331-3835-408f-888f-1c753919ccf3",
+    "items_count": 3,
+    "total_amount": 933.0,
+    "currency": "USD",
+    "product": "Protector",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-23T22:43:55.163741Z"
+  },
+  {
+    "id": "978ddec9-551e-4ba2-8888-4a530934b21d",
+    "user_id": "17ffbe42-bddf-43bd-a8ea-c24f047c26c9",
+    "items_count": 2,
+    "total_amount": 100.0,
+    "currency": "EUR",
+    "product": "Duvet",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-04T01:33:55.163741Z"
+  },
+  {
+    "id": "205d8f01-d33f-4e47-8b6a-0fe447454fa3",
+    "user_id": "1a690b28-4a48-47dc-8e16-08bebdd14773",
+    "items_count": 3,
+    "total_amount": 630.0,
+    "currency": "USD",
+    "product": "Sheet Set",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-27T10:17:55.163741Z"
+  },
+  {
+    "id": "8fe8dced-0b74-4346-ae1d-0c52b8bb804e",
+    "user_id": "ce6272f8-b859-4639-81c0-973e2fe9f0d0",
+    "items_count": 2,
+    "total_amount": 402.0,
+    "currency": "EUR",
+    "product": "Bed Frame",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-27T11:17:55.163741Z"
+  },
+  {
+    "id": "065c17b5-4913-4d2c-96fe-82b69705f67b",
+    "user_id": "99a30d30-7b13-47e5-8fa4-84c2793fe0f0",
+    "items_count": 3,
+    "total_amount": 417.0,
+    "currency": "GBP",
+    "product": "Protector",
+    "payment_method": "card",
+    "purchased_at": "2025-07-20T14:26:55.163741Z"
+  },
+  {
+    "id": "8e502479-f2d3-4a96-a2cb-2c6016d6ed82",
+    "user_id": "6ec5a0b1-9244-48b5-bffa-35f07ad2971c",
+    "items_count": 2,
+    "total_amount": 692.0,
+    "currency": "GBP",
+    "product": "Travel Case",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-11T01:10:55.163741Z"
+  },
+  {
+    "id": "49c90796-80ff-4625-a175-199c11de7740",
+    "user_id": "5d8ca578-2453-4c26-a2bd-282cd678742d",
+    "items_count": 3,
+    "total_amount": 876.0,
+    "currency": "EUR",
+    "product": "Cooling Mattress",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-07T01:34:55.163741Z"
+  },
+  {
+    "id": "879ddd5b-ccfa-4376-947b-6b9e8b05b31b",
+    "user_id": "8a1b9210-023e-4db6-b30e-eba409279a8d",
+    "items_count": 3,
+    "total_amount": 663.0,
+    "currency": "USD",
+    "product": "Bed Frame",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-25T17:26:55.163741Z"
+  },
+  {
+    "id": "23523256-06b4-4118-827f-3d2ec0c4bb3f",
+    "user_id": "bef70684-45f0-4d25-8a3a-8225662322eb",
+    "items_count": 1,
+    "total_amount": 73.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "card",
+    "purchased_at": "2025-07-10T10:05:55.163741Z"
+  },
+  {
+    "id": "bbcb1921-82f2-44f0-9c50-1a9e452d65d7",
+    "user_id": "b9b2f349-3579-44f4-a2af-bf5e2c33785d",
+    "items_count": 3,
+    "total_amount": 447.0,
+    "currency": "CAD",
+    "product": "Travel Case",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-24T19:11:55.163741Z"
+  },
+  {
+    "id": "c432a53d-edf7-49b9-891d-999e1a3040cf",
+    "user_id": "c4d44576-ba3e-4a4c-868b-caa4bec31e57",
+    "items_count": 3,
+    "total_amount": 156.0,
+    "currency": "USD",
+    "product": "Protector",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-28T00:28:55.163741Z"
+  },
+  {
+    "id": "0cb2fae7-da51-4417-a140-f874d0816a3d",
+    "user_id": "63743679-8896-4401-9c6f-db000aae9595",
+    "items_count": 2,
+    "total_amount": 150.0,
+    "currency": "EUR",
+    "product": "Cooling Mattress",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-31T08:22:55.163741Z"
+  },
+  {
+    "id": "60afe577-4d0c-445e-ae92-ca58647d3d0e",
+    "user_id": "ae5ee390-2a89-4b33-9765-96f7f4e060ad",
+    "items_count": 3,
+    "total_amount": 1008.0,
+    "currency": "GBP",
+    "product": "Travel Case",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-16T05:31:55.163741Z"
+  },
+  {
+    "id": "55931682-87c5-4559-80d6-fb0ac4fa042a",
+    "user_id": "f7f44703-8bf8-4083-b639-d38da66d456f",
+    "items_count": 1,
+    "total_amount": 293.0,
+    "currency": "CAD",
+    "product": "Sheet Set",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-16T02:28:55.163741Z"
+  },
+  {
+    "id": "9cb249b6-156e-4bd5-b94c-d1b937f24bae",
+    "user_id": "7914346d-543b-4855-b689-1287d6043409",
+    "items_count": 3,
+    "total_amount": 894.0,
+    "currency": "EUR",
+    "product": "Sheet Set",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-04T14:28:55.163741Z"
+  },
+  {
+    "id": "6c226a07-ef25-4d2a-ba41-de942a021a36",
+    "user_id": "1636788c-edc2-43a7-ad7a-d6d0ec7eff61",
+    "items_count": 2,
+    "total_amount": 442.0,
+    "currency": "GBP",
+    "product": "Cooling Mattress",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-30T16:20:55.163741Z"
+  },
+  {
+    "id": "ed167a04-ef05-4699-a56d-24c256af84cb",
+    "user_id": "d171219a-59a7-4ec1-b6b8-df5beaf60331",
+    "items_count": 3,
+    "total_amount": 384.0,
+    "currency": "EUR",
+    "product": "Cooling Mattress",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-13T12:56:55.163741Z"
+  },
+  {
+    "id": "7f9d0488-c2bf-41e1-b982-c0a18dc0bddf",
+    "user_id": "9f39a3af-ea0a-4528-8f4a-130d22ee3e96",
+    "items_count": 2,
+    "total_amount": 524.0,
+    "currency": "USD",
+    "product": "Bed Frame",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-15T04:17:55.163741Z"
+  },
+  {
+    "id": "902e20d1-206a-4cb6-90f6-5fe727f928a7",
+    "user_id": "50cc5d51-100d-4a4a-82e3-39e28352ed25",
+    "items_count": 1,
+    "total_amount": 344.0,
+    "currency": "CAD",
+    "product": "Travel Case",
+    "payment_method": "card",
+    "purchased_at": "2025-06-09T12:13:55.163741Z"
+  },
+  {
+    "id": "f422b6df-9069-408b-9876-3d38900bfd33",
+    "user_id": "d021c0b2-bbe1-47eb-9714-29742fd50873",
+    "items_count": 2,
+    "total_amount": 528.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-22T09:21:55.163741Z"
+  },
+  {
+    "id": "bfd6c699-b4e3-438c-95fc-81e65539e18a",
+    "user_id": "150b227a-9a71-4cd0-b9ad-9593a732eb16",
+    "items_count": 1,
+    "total_amount": 249.0,
+    "currency": "GBP",
+    "product": "Protector",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-16T08:16:55.163741Z"
+  },
+  {
+    "id": "0ee6beb9-f008-4dc3-97d1-b3ded02bbb17",
+    "user_id": "b72b8389-ac62-48b5-8645-b60593154855",
+    "items_count": 3,
+    "total_amount": 969.0,
+    "currency": "USD",
+    "product": "Protector",
+    "payment_method": "card",
+    "purchased_at": "2025-08-03T02:17:55.163741Z"
+  },
+  {
+    "id": "678f8828-5d40-4c10-872f-2e7740c58096",
+    "user_id": "8443c977-7899-435c-86fe-ebea7f213ad7",
+    "items_count": 1,
+    "total_amount": 286.0,
+    "currency": "EUR",
+    "product": "Pod Cover",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-15T13:03:55.163741Z"
+  },
+  {
+    "id": "2597f38e-6656-4cb6-8521-fdc7e9cdf387",
+    "user_id": "5d8ca578-2453-4c26-a2bd-282cd678742d",
+    "items_count": 2,
+    "total_amount": 434.0,
+    "currency": "GBP",
+    "product": "Protector",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-21T09:50:55.163741Z"
+  },
+  {
+    "id": "a0b08c02-90f8-4f2e-9774-fb42e59a6adf",
+    "user_id": "954e55a1-eef0-4de5-a840-e2c09ec03373",
+    "items_count": 1,
+    "total_amount": 290.0,
+    "currency": "USD",
+    "product": "Pod Cover",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-25T02:02:55.163741Z"
+  },
+  {
+    "id": "d8af6fa9-6974-42f2-b230-a7d1f61eee91",
+    "user_id": "06480127-a897-438d-b5b6-b09fb290d656",
+    "items_count": 3,
+    "total_amount": 210.0,
+    "currency": "USD",
+    "product": "Bed Frame",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-16T23:32:55.163741Z"
+  },
+  {
+    "id": "78e4d7d8-0828-40d4-884f-3470cfd49c42",
+    "user_id": "15fad119-0a8d-4b55-9785-975619866147",
+    "items_count": 1,
+    "total_amount": 172.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "card",
+    "purchased_at": "2025-07-03T16:47:55.163741Z"
+  },
+  {
+    "id": "08731e4b-e95f-41c9-a67b-3e6a79e9d717",
+    "user_id": "a1d5d30c-1eef-4aaf-a526-77288b2daeae",
+    "items_count": 3,
+    "total_amount": 543.0,
+    "currency": "GBP",
+    "product": "Smart Pillow",
+    "payment_method": "card",
+    "purchased_at": "2025-06-20T18:38:55.163741Z"
+  },
+  {
+    "id": "57d57ce7-47c5-4af6-8967-26e1a081de69",
+    "user_id": "d360fdf8-c8af-4ab4-be2b-af6fa7e48af3",
+    "items_count": 1,
+    "total_amount": 346.0,
+    "currency": "USD",
+    "product": "Sheet Set",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-14T17:27:55.163741Z"
+  },
+  {
+    "id": "f2f0270c-6e3e-4ab2-b084-ee2a806f5354",
+    "user_id": "b5305c14-b7bf-40a4-a382-66c78d2a4eb5",
+    "items_count": 3,
+    "total_amount": 1113.0,
+    "currency": "EUR",
+    "product": "Cooling Mattress",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-15T00:52:55.163741Z"
+  },
+  {
+    "id": "3603370e-1e8f-4f68-a91f-e92b509ff4bd",
+    "user_id": "0127bb8b-04b7-4f06-936c-1c91a422dccf",
+    "items_count": 1,
+    "total_amount": 339.0,
+    "currency": "USD",
+    "product": "Duvet",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-27T11:35:55.163741Z"
+  },
+  {
+    "id": "ef5b8b96-91e3-4eb9-be65-9ab1b095ce99",
+    "user_id": "06480127-a897-438d-b5b6-b09fb290d656",
+    "items_count": 3,
+    "total_amount": 1143.0,
+    "currency": "GBP",
+    "product": "Pod Cover",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-17T07:30:55.163741Z"
+  },
+  {
+    "id": "53453a73-153f-4789-a07b-d2cb4ca8ba64",
+    "user_id": "dff35862-8a5c-4d2e-98de-30b44f6f283c",
+    "items_count": 2,
+    "total_amount": 470.0,
+    "currency": "CAD",
+    "product": "Smart Pillow",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-28T06:25:55.163741Z"
+  },
+  {
+    "id": "cee14c2d-76a0-4673-b34a-85d639c2d7bf",
+    "user_id": "c4d44576-ba3e-4a4c-868b-caa4bec31e57",
+    "items_count": 2,
+    "total_amount": 730.0,
+    "currency": "CAD",
+    "product": "Travel Case",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-17T04:00:55.163741Z"
+  },
+  {
+    "id": "bf60809c-c933-4c91-b8b8-161c33dd7dfa",
+    "user_id": "7c5f04f2-fd12-4350-b38e-eadf321a8897",
+    "items_count": 2,
+    "total_amount": 350.0,
+    "currency": "USD",
+    "product": "Sheet Set",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-24T08:22:55.163741Z"
+  },
+  {
+    "id": "8bc6b4aa-dc5f-4152-b1c3-6f08b5beb7c4",
+    "user_id": "7281e1df-b93a-4ade-b1a2-2e3a58ae975c",
+    "items_count": 3,
+    "total_amount": 1176.0,
+    "currency": "CAD",
+    "product": "Duvet",
+    "payment_method": "card",
+    "purchased_at": "2025-07-08T13:08:55.163741Z"
+  },
+  {
+    "id": "ea7c4b53-636a-4a82-bdea-1e5a46d8fd49",
+    "user_id": "068dd257-0990-4947-8791-4610fb94eda1",
+    "items_count": 2,
+    "total_amount": 316.0,
+    "currency": "GBP",
+    "product": "Sheet Set",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-22T03:53:55.163741Z"
+  },
+  {
+    "id": "e19e3ea9-ac44-4e91-a370-11369e69f4f8",
+    "user_id": "50cc5d51-100d-4a4a-82e3-39e28352ed25",
+    "items_count": 2,
+    "total_amount": 668.0,
+    "currency": "USD",
+    "product": "Bed Frame",
+    "payment_method": "card",
+    "purchased_at": "2025-07-24T10:21:55.163741Z"
+  },
+  {
+    "id": "a5a71c75-9b0a-470a-a599-3172b063aa71",
+    "user_id": "150b227a-9a71-4cd0-b9ad-9593a732eb16",
+    "items_count": 3,
+    "total_amount": 519.0,
+    "currency": "CAD",
+    "product": "Travel Case",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-19T23:38:55.163741Z"
+  },
+  {
+    "id": "d79020bf-81df-401e-9326-5b926c6eb207",
+    "user_id": "4ad4189c-7946-40b7-b144-1c0934a87348",
+    "items_count": 2,
+    "total_amount": 326.0,
+    "currency": "CAD",
+    "product": "Bed Frame",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-27T04:22:55.163741Z"
+  },
+  {
+    "id": "26cdb25c-78d4-4165-bfb8-a1f868fddf97",
+    "user_id": "3f4ed014-d00c-453f-84fd-989c4cb52ff3",
+    "items_count": 2,
+    "total_amount": 666.0,
+    "currency": "GBP",
+    "product": "Protector",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-17T00:14:55.163741Z"
+  },
+  {
+    "id": "29ede2a8-2b20-4542-9dc9-1c9931458114",
+    "user_id": "59dca371-dc77-4545-bd4f-18cc4c1cb009",
+    "items_count": 2,
+    "total_amount": 412.0,
+    "currency": "GBP",
+    "product": "Bed Frame",
+    "payment_method": "card",
+    "purchased_at": "2025-06-23T17:39:55.163741Z"
+  },
+  {
+    "id": "114b9d05-91a3-492e-9c92-0eb91df62303",
+    "user_id": "d80a3849-602d-41be-81ce-ec74c12f3baf",
+    "items_count": 1,
+    "total_amount": 324.0,
+    "currency": "EUR",
+    "product": "Bed Frame",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-22T07:42:55.163741Z"
+  },
+  {
+    "id": "abaeee56-b265-42c4-b768-19842cba5d8c",
+    "user_id": "7914346d-543b-4855-b689-1287d6043409",
+    "items_count": 3,
+    "total_amount": 1053.0,
+    "currency": "GBP",
+    "product": "Cooling Mattress",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-21T16:28:55.163741Z"
+  },
+  {
+    "id": "457aebff-c2a1-45aa-9624-cb28d3dd235d",
+    "user_id": "e6deabb3-0de5-43d2-89a1-06c0f6feb8ca",
+    "items_count": 1,
+    "total_amount": 204.0,
+    "currency": "USD",
+    "product": "Smart Pillow",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-08-06T22:22:55.163741Z"
+  },
+  {
+    "id": "a904fd8c-17fc-4d99-bf52-5e742fe70c9d",
+    "user_id": "293bdf28-e032-4cd0-bb7e-6425c03eccb5",
+    "items_count": 2,
+    "total_amount": 228.0,
+    "currency": "CAD",
+    "product": "Cooling Mattress",
+    "payment_method": "card",
+    "purchased_at": "2025-07-03T14:31:55.163741Z"
+  },
+  {
+    "id": "e1c73282-8e3a-433b-82fb-c8f6468382aa",
+    "user_id": "f3025738-f7df-4ad8-988c-2c56cb8e9480",
+    "items_count": 2,
+    "total_amount": 550.0,
+    "currency": "GBP",
+    "product": "Smart Pillow",
+    "payment_method": "card",
+    "purchased_at": "2025-07-23T07:55:55.163741Z"
+  },
+  {
+    "id": "523207de-bab2-4aa9-b8ba-af9b850a1e9d",
+    "user_id": "ec7e1aa1-4b2a-4c52-b1ca-c173b022cfc1",
+    "items_count": 1,
+    "total_amount": 255.0,
+    "currency": "CAD",
+    "product": "Cooling Mattress",
+    "payment_method": "card",
+    "purchased_at": "2025-07-30T19:08:55.163741Z"
+  },
+  {
+    "id": "b858184b-cf31-4bc7-85a4-42ae884350d0",
+    "user_id": "7281e1df-b93a-4ade-b1a2-2e3a58ae975c",
+    "items_count": 2,
+    "total_amount": 186.0,
+    "currency": "EUR",
+    "product": "Cooling Mattress",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-01T03:53:55.163741Z"
+  },
+  {
+    "id": "fbbf5dac-3755-41c8-af11-6d7c41a7e110",
+    "user_id": "15fad119-0a8d-4b55-9785-975619866147",
+    "items_count": 1,
+    "total_amount": 317.0,
+    "currency": "CAD",
+    "product": "Travel Case",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-20T04:08:55.163741Z"
+  },
+  {
+    "id": "3ff9cb4e-7f0a-4c2a-a87d-399a225fd4e2",
+    "user_id": "8443c977-7899-435c-86fe-ebea7f213ad7",
+    "items_count": 2,
+    "total_amount": 682.0,
+    "currency": "USD",
+    "product": "Cooling Mattress",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-29T17:01:55.163741Z"
+  },
+  {
+    "id": "110cdf5c-ea5a-480d-bd89-f8cc9e9d634d",
+    "user_id": "6a78e1e1-c833-4399-bd41-d8fb60f908b3",
+    "items_count": 3,
+    "total_amount": 273.0,
+    "currency": "EUR",
+    "product": "Bed Frame",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-04T21:40:55.163741Z"
+  },
+  {
+    "id": "84354c2a-1eb7-44fd-8615-a9dd5bb5b3f7",
+    "user_id": "f87b4781-9ca7-42eb-b866-611b2ddfaacf",
+    "items_count": 1,
+    "total_amount": 259.0,
+    "currency": "CAD",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-08-06T16:19:55.163741Z"
+  },
+  {
+    "id": "dc184a95-9985-4f02-8bcf-7d500f32608d",
+    "user_id": "f8718d13-e6bc-44b1-9e29-6d48de8a9bd5",
+    "items_count": 3,
+    "total_amount": 582.0,
+    "currency": "CAD",
+    "product": "Cooling Mattress",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-10T15:12:55.163741Z"
+  },
+  {
+    "id": "b561f67d-1f8e-4b54-b35d-001ec90be81b",
+    "user_id": "b9b2f349-3579-44f4-a2af-bf5e2c33785d",
+    "items_count": 3,
+    "total_amount": 1164.0,
+    "currency": "EUR",
+    "product": "Protector",
+    "payment_method": "card",
+    "purchased_at": "2025-07-05T16:33:55.163741Z"
+  },
+  {
+    "id": "3762f71e-f155-496d-ae53-ac1a3b549adc",
+    "user_id": "34a0f272-a161-4111-b22a-bf34f2fe2bb0",
+    "items_count": 1,
+    "total_amount": 186.0,
+    "currency": "EUR",
+    "product": "Cooling Mattress",
+    "payment_method": "card",
+    "purchased_at": "2025-07-29T13:44:55.163741Z"
+  },
+  {
+    "id": "287d2b42-8c5e-47f5-a6bd-8f6cd8a212b8",
+    "user_id": "0127bb8b-04b7-4f06-936c-1c91a422dccf",
+    "items_count": 3,
+    "total_amount": 1023.0,
+    "currency": "GBP",
+    "product": "Travel Case",
+    "payment_method": "card",
+    "purchased_at": "2025-07-10T00:43:55.163741Z"
+  },
+  {
+    "id": "4e338069-6f4b-43df-9528-1c490f750e25",
+    "user_id": "d021c0b2-bbe1-47eb-9714-29742fd50873",
+    "items_count": 3,
+    "total_amount": 768.0,
+    "currency": "GBP",
+    "product": "Travel Case",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-03T03:49:55.163741Z"
+  },
+  {
+    "id": "4f317618-7c44-4cf0-a6cf-68bcf3fbbdfd",
+    "user_id": "c68b6fe2-464b-4f53-b5a2-fb472d333195",
+    "items_count": 2,
+    "total_amount": 430.0,
+    "currency": "GBP",
+    "product": "Pod Cover",
+    "payment_method": "card",
+    "purchased_at": "2025-07-25T01:13:55.163741Z"
+  },
+  {
+    "id": "0e7b7c64-0ddc-4774-a83b-4efe697052ad",
+    "user_id": "dd751bf9-5061-41a3-8b4c-e2782b1b62a1",
+    "items_count": 3,
+    "total_amount": 180.0,
+    "currency": "GBP",
+    "product": "Pod Cover",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-09T06:31:55.163741Z"
+  },
+  {
+    "id": "4a8e2570-1225-4a6d-86fa-f9b827181513",
+    "user_id": "c4d44576-ba3e-4a4c-868b-caa4bec31e57",
+    "items_count": 2,
+    "total_amount": 384.0,
+    "currency": "EUR",
+    "product": "Protector",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-03T08:11:55.163741Z"
+  },
+  {
+    "id": "7be77008-0cb5-40b6-a30f-a6149c00f87d",
+    "user_id": "3528f316-0994-46a4-9091-d0e918721b4f",
+    "items_count": 2,
+    "total_amount": 440.0,
+    "currency": "GBP",
+    "product": "Cooling Mattress",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-18T10:10:55.163741Z"
+  },
+  {
+    "id": "ed3188ee-3b20-4e85-b4e1-045e3cf7b9b5",
+    "user_id": "1c286a76-b03f-42a0-9209-f6939c715bbc",
+    "items_count": 2,
+    "total_amount": 394.0,
+    "currency": "CAD",
+    "product": "Pod Cover",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-03T13:29:55.163741Z"
+  },
+  {
+    "id": "827095df-fcf2-45cd-8238-6ad814027e7b",
+    "user_id": "954e55a1-eef0-4de5-a840-e2c09ec03373",
+    "items_count": 2,
+    "total_amount": 218.0,
+    "currency": "CAD",
+    "product": "Pod Cover",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-13T22:22:55.163741Z"
+  },
+  {
+    "id": "52c4d023-0b9e-4c00-b24d-7f0f50c38eb2",
+    "user_id": "343607d8-cfe4-4a64-9dce-2eb4599ef233",
+    "items_count": 3,
+    "total_amount": 705.0,
+    "currency": "CAD",
+    "product": "Travel Case",
+    "payment_method": "card",
+    "purchased_at": "2025-07-26T15:07:55.163741Z"
+  },
+  {
+    "id": "779f03a4-84c0-4016-be6c-63fc4210eefd",
+    "user_id": "293bdf28-e032-4cd0-bb7e-6425c03eccb5",
+    "items_count": 1,
+    "total_amount": 197.0,
+    "currency": "CAD",
+    "product": "Travel Case",
+    "payment_method": "card",
+    "purchased_at": "2025-08-07T02:43:55.163741Z"
+  },
+  {
+    "id": "0b042aad-1556-4b97-a8e4-293c72233cb1",
+    "user_id": "5b788c06-491d-4206-9d10-1e6bfa254839",
+    "items_count": 1,
+    "total_amount": 131.0,
+    "currency": "GBP",
+    "product": "Pod Cover",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-03T16:33:55.163741Z"
+  },
+  {
+    "id": "8bb2d96e-8be5-410e-8abe-a0b58c4ebccb",
+    "user_id": "ec7e1aa1-4b2a-4c52-b1ca-c173b022cfc1",
+    "items_count": 2,
+    "total_amount": 220.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-07T14:54:55.163741Z"
+  },
+  {
+    "id": "c81f5845-5efd-4645-93b6-905ebe59517c",
+    "user_id": "1450ccb9-390b-4eb1-9541-2850b290e476",
+    "items_count": 2,
+    "total_amount": 582.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-15T17:43:55.163741Z"
+  },
+  {
+    "id": "dd255585-8c8f-4109-8696-f64b826e0a54",
+    "user_id": "0127bb8b-04b7-4f06-936c-1c91a422dccf",
+    "items_count": 3,
+    "total_amount": 357.0,
+    "currency": "USD",
+    "product": "Sheet Set",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-18T06:54:55.163741Z"
+  },
+  {
+    "id": "eb07eaf9-ce8e-4601-9f52-8aef6c07d7f9",
+    "user_id": "7c5f04f2-fd12-4350-b38e-eadf321a8897",
+    "items_count": 1,
+    "total_amount": 194.0,
+    "currency": "GBP",
+    "product": "Travel Case",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-11T05:50:55.163741Z"
+  },
+  {
+    "id": "ec107d2e-ff29-46ee-bb57-e2650a9e1b90",
+    "user_id": "51e15e70-02e2-4f25-af16-9cc9bf58eebb",
+    "items_count": 2,
+    "total_amount": 440.0,
+    "currency": "CAD",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-14T17:47:55.163741Z"
+  },
+  {
+    "id": "ee58bff9-2f5b-4bab-9a90-de02080f0083",
+    "user_id": "50cc5d51-100d-4a4a-82e3-39e28352ed25",
+    "items_count": 1,
+    "total_amount": 342.0,
+    "currency": "CAD",
+    "product": "Bed Frame",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-06T13:22:55.163741Z"
+  },
+  {
+    "id": "f0a9ad21-9001-4798-ae1f-5f3d56eef402",
+    "user_id": "e697b7b9-2196-4eb9-a689-fdd5758626ba",
+    "items_count": 2,
+    "total_amount": 490.0,
+    "currency": "CAD",
+    "product": "Smart Pillow",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-06T19:55:55.163741Z"
+  },
+  {
+    "id": "0a6bb4f5-1b77-4e8c-bbe4-214d02fbca00",
+    "user_id": "31a45135-b2dd-44ec-8a69-54b803b0495c",
+    "items_count": 3,
+    "total_amount": 657.0,
+    "currency": "USD",
+    "product": "Travel Case",
+    "payment_method": "card",
+    "purchased_at": "2025-07-06T08:38:55.163741Z"
+  },
+  {
+    "id": "5234631e-f020-4c4b-9b7d-4bdcfb18b7df",
+    "user_id": "37d340bd-b96c-4a8a-a03e-1f086599e027",
+    "items_count": 3,
+    "total_amount": 369.0,
+    "currency": "CAD",
+    "product": "Smart Pillow",
+    "payment_method": "card",
+    "purchased_at": "2025-07-09T15:11:55.163741Z"
+  },
+  {
+    "id": "db9904b5-e1f9-4d01-ac8c-ca25ee1e9565",
+    "user_id": "1f309952-0aa3-4fb0-a060-0c44c41526f9",
+    "items_count": 3,
+    "total_amount": 759.0,
+    "currency": "USD",
+    "product": "Duvet",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-19T02:50:55.163741Z"
+  },
+  {
+    "id": "efc37ed8-985d-4470-b957-2469c4d43dbd",
+    "user_id": "8781ea3d-13e5-4f14-be16-0ffcb5810a05",
+    "items_count": 2,
+    "total_amount": 654.0,
+    "currency": "USD",
+    "product": "Cooling Mattress",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-29T00:52:55.163741Z"
+  },
+  {
+    "id": "0f69fdb7-59b4-47ca-90d2-9975d160b0ed",
+    "user_id": "f8718d13-e6bc-44b1-9e29-6d48de8a9bd5",
+    "items_count": 1,
+    "total_amount": 96.0,
+    "currency": "CAD",
+    "product": "Cooling Mattress",
+    "payment_method": "card",
+    "purchased_at": "2025-07-11T18:33:55.163741Z"
+  },
+  {
+    "id": "cfabe81a-2ae0-434c-9580-75aa0c31bddd",
+    "user_id": "1c286a76-b03f-42a0-9209-f6939c715bbc",
+    "items_count": 2,
+    "total_amount": 128.0,
+    "currency": "USD",
+    "product": "Duvet",
+    "payment_method": "card",
+    "purchased_at": "2025-07-21T11:59:55.163741Z"
+  },
+  {
+    "id": "a4d223dd-76f8-415f-b1be-cf9e2ad180c2",
+    "user_id": "3f4ed014-d00c-453f-84fd-989c4cb52ff3",
+    "items_count": 2,
+    "total_amount": 248.0,
+    "currency": "EUR",
+    "product": "Protector",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-29T18:15:55.163741Z"
+  },
+  {
+    "id": "ab473284-7fa7-4ce5-a528-7bce4ef3a2c3",
+    "user_id": "12276ad1-c587-4c01-b8f7-85aa25c523cf",
+    "items_count": 3,
+    "total_amount": 735.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-25T08:29:55.163741Z"
+  },
+  {
+    "id": "5dfb8474-14f4-4996-8983-e37f477e0ff1",
+    "user_id": "8a1b9210-023e-4db6-b30e-eba409279a8d",
+    "items_count": 2,
+    "total_amount": 570.0,
+    "currency": "GBP",
+    "product": "Pod Cover",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-12T14:24:55.163741Z"
+  },
+  {
+    "id": "13bedc7f-23b7-4a0b-bad0-b20bcd2fb098",
+    "user_id": "99a30d30-7b13-47e5-8fa4-84c2793fe0f0",
+    "items_count": 3,
+    "total_amount": 390.0,
+    "currency": "USD",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-02T14:01:55.163741Z"
+  },
+  {
+    "id": "3f595450-5609-4716-a1ca-8d2fff523cd5",
+    "user_id": "8a1b9210-023e-4db6-b30e-eba409279a8d",
+    "items_count": 2,
+    "total_amount": 356.0,
+    "currency": "CAD",
+    "product": "Sheet Set",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-15T07:44:55.163741Z"
+  },
+  {
+    "id": "916881b9-ec6e-4d65-a6ed-f899515c7c81",
+    "user_id": "dff35862-8a5c-4d2e-98de-30b44f6f283c",
+    "items_count": 1,
+    "total_amount": 245.0,
+    "currency": "GBP",
+    "product": "Sheet Set",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-08-07T01:45:55.163741Z"
+  },
+  {
+    "id": "248b2034-6351-463d-b499-ff1113133f60",
+    "user_id": "e557252e-6ab6-404e-8146-42bfcc79bb3c",
+    "items_count": 2,
+    "total_amount": 108.0,
+    "currency": "USD",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-20T16:22:55.163741Z"
+  },
+  {
+    "id": "1a6258a0-d8e8-46cd-bce4-da0480d8ec81",
+    "user_id": "5b788c06-491d-4206-9d10-1e6bfa254839",
+    "items_count": 2,
+    "total_amount": 324.0,
+    "currency": "EUR",
+    "product": "Sheet Set",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-29T20:55:55.163741Z"
+  },
+  {
+    "id": "f4a38162-3fb4-4a45-80b6-9347d9ad7b99",
+    "user_id": "b9b2f349-3579-44f4-a2af-bf5e2c33785d",
+    "items_count": 3,
+    "total_amount": 210.0,
+    "currency": "GBP",
+    "product": "Travel Case",
+    "payment_method": "card",
+    "purchased_at": "2025-07-02T11:46:55.163741Z"
+  },
+  {
+    "id": "54f6bd82-859a-4af4-b00d-e9a863396135",
+    "user_id": "26c970e6-d3af-4415-8879-b27a1b223575",
+    "items_count": 1,
+    "total_amount": 96.0,
+    "currency": "GBP",
+    "product": "Duvet",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-28T17:22:55.163741Z"
+  },
+  {
+    "id": "44a1456a-f465-4203-956d-3c425e402125",
+    "user_id": "b72b8389-ac62-48b5-8645-b60593154855",
+    "items_count": 3,
+    "total_amount": 711.0,
+    "currency": "GBP",
+    "product": "Smart Pillow",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-11T07:47:55.163741Z"
+  },
+  {
+    "id": "15225615-5db5-47cf-8e8c-e4210edfaf13",
+    "user_id": "dec4a03b-7cb1-4a0f-af4f-6e913bd01dfb",
+    "items_count": 3,
+    "total_amount": 669.0,
+    "currency": "USD",
+    "product": "Travel Case",
+    "payment_method": "card",
+    "purchased_at": "2025-07-30T16:31:55.163741Z"
+  },
+  {
+    "id": "9337dd80-b6df-4973-ab46-5feea4458aeb",
+    "user_id": "99a30d30-7b13-47e5-8fa4-84c2793fe0f0",
+    "items_count": 3,
+    "total_amount": 1185.0,
+    "currency": "CAD",
+    "product": "Duvet",
+    "payment_method": "card",
+    "purchased_at": "2025-06-19T10:45:55.163741Z"
+  },
+  {
+    "id": "cd396780-68d9-4410-aab4-c86b38f9956e",
+    "user_id": "37d340bd-b96c-4a8a-a03e-1f086599e027",
+    "items_count": 2,
+    "total_amount": 648.0,
+    "currency": "USD",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-26T01:17:55.163741Z"
+  },
+  {
+    "id": "0bf8f544-290a-4bcf-b19c-199abaf9e1a4",
+    "user_id": "6a78e1e1-c833-4399-bd41-d8fb60f908b3",
+    "items_count": 3,
+    "total_amount": 735.0,
+    "currency": "GBP",
+    "product": "Cooling Mattress",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-09T23:22:55.163741Z"
+  },
+  {
+    "id": "c7a78a79-35e2-44cb-9c26-626978bb99cf",
+    "user_id": "15fad119-0a8d-4b55-9785-975619866147",
+    "items_count": 3,
+    "total_amount": 651.0,
+    "currency": "EUR",
+    "product": "Cooling Mattress",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-11T00:18:55.163741Z"
+  },
+  {
+    "id": "105cabff-2e3a-4b73-9e8b-31324714e00a",
+    "user_id": "d021c0b2-bbe1-47eb-9714-29742fd50873",
+    "items_count": 3,
+    "total_amount": 777.0,
+    "currency": "USD",
+    "product": "Smart Pillow",
+    "payment_method": "card",
+    "purchased_at": "2025-06-09T22:57:55.163741Z"
+  },
+  {
+    "id": "fc639dd9-a680-4e47-9513-e1be6d4aa25d",
+    "user_id": "d021c0b2-bbe1-47eb-9714-29742fd50873",
+    "items_count": 2,
+    "total_amount": 218.0,
+    "currency": "USD",
+    "product": "Bed Frame",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-15T08:44:55.163741Z"
+  },
+  {
+    "id": "2cd1155b-9bd2-4af5-80a2-dbc8579f9837",
+    "user_id": "3f4ed014-d00c-453f-84fd-989c4cb52ff3",
+    "items_count": 3,
+    "total_amount": 978.0,
+    "currency": "CAD",
+    "product": "Smart Pillow",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-28T20:51:55.163741Z"
+  },
+  {
+    "id": "efe16f38-222e-4896-a19e-c67e03422020",
+    "user_id": "150b227a-9a71-4cd0-b9ad-9593a732eb16",
+    "items_count": 3,
+    "total_amount": 774.0,
+    "currency": "GBP",
+    "product": "Pod Cover",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-26T09:05:55.163741Z"
+  },
+  {
+    "id": "d21df1fa-4287-4a3a-b1eb-f682b82e997a",
+    "user_id": "fe8c2efb-4fb3-4a15-ae0d-3b778ce37714",
+    "items_count": 1,
+    "total_amount": 235.0,
+    "currency": "USD",
+    "product": "Duvet",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-08-05T10:38:55.163741Z"
+  },
+  {
+    "id": "8e140c29-d772-4bce-9a85-8801f2208b2a",
+    "user_id": "7914346d-543b-4855-b689-1287d6043409",
+    "items_count": 1,
+    "total_amount": 112.0,
+    "currency": "CAD",
+    "product": "Cooling Mattress",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-28T02:24:55.163741Z"
+  },
+  {
+    "id": "25e98183-6641-4a5e-b434-714aebfd9675",
+    "user_id": "0127bb8b-04b7-4f06-936c-1c91a422dccf",
+    "items_count": 1,
+    "total_amount": 75.0,
+    "currency": "GBP",
+    "product": "Bed Frame",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-19T04:57:55.163741Z"
+  },
+  {
+    "id": "76da6d57-926f-439f-a539-c7041cc8d400",
+    "user_id": "6ec5a0b1-9244-48b5-bffa-35f07ad2971c",
+    "items_count": 1,
+    "total_amount": 333.0,
+    "currency": "EUR",
+    "product": "Bed Frame",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-18T19:11:55.163741Z"
+  },
+  {
+    "id": "359764ac-a843-4c05-83e4-40dafa231f1d",
+    "user_id": "0127bb8b-04b7-4f06-936c-1c91a422dccf",
+    "items_count": 1,
+    "total_amount": 191.0,
+    "currency": "EUR",
+    "product": "Smart Pillow",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-18T18:16:55.163741Z"
+  },
+  {
+    "id": "fe96e539-0791-431b-b014-885442833af6",
+    "user_id": "ec7e1aa1-4b2a-4c52-b1ca-c173b022cfc1",
+    "items_count": 3,
+    "total_amount": 189.0,
+    "currency": "EUR",
+    "product": "Pod Cover",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-19T16:06:55.163741Z"
+  },
+  {
+    "id": "4beb5499-58d4-421b-ba0a-21ead26d3c27",
+    "user_id": "e4f2aa08-5235-4b56-a50e-82ab91fdaa9c",
+    "items_count": 2,
+    "total_amount": 116.0,
+    "currency": "EUR",
+    "product": "Sheet Set",
+    "payment_method": "card",
+    "purchased_at": "2025-07-31T09:51:55.163741Z"
+  },
+  {
+    "id": "a75da3a4-94f9-40b3-8fdb-313dba4e6aa7",
+    "user_id": "9f2acc9a-7642-4965-a842-c7b4ea19f53a",
+    "items_count": 1,
+    "total_amount": 82.0,
+    "currency": "CAD",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-07T03:58:55.163741Z"
+  },
+  {
+    "id": "b0c15a34-a0bb-42d8-aefc-ec64e0e4e6a2",
+    "user_id": "dff35862-8a5c-4d2e-98de-30b44f6f283c",
+    "items_count": 2,
+    "total_amount": 614.0,
+    "currency": "EUR",
+    "product": "Pod Cover",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-10T02:16:55.163741Z"
+  },
+  {
+    "id": "b21c3220-410d-4ec3-bf8f-1cf19893cef0",
+    "user_id": "a9f2dfa6-2633-4d17-b5bc-e6208269b607",
+    "items_count": 1,
+    "total_amount": 295.0,
+    "currency": "CAD",
+    "product": "Protector",
+    "payment_method": "card",
+    "purchased_at": "2025-07-08T09:05:55.163741Z"
+  },
+  {
+    "id": "b25cfbfe-87ca-4aa8-b6cd-90f8addeadd2",
+    "user_id": "b5305c14-b7bf-40a4-a382-66c78d2a4eb5",
+    "items_count": 1,
+    "total_amount": 214.0,
+    "currency": "EUR",
+    "product": "Cooling Mattress",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-22T02:55:55.163741Z"
+  },
+  {
+    "id": "b0a423c3-1e22-4e47-b303-f3840dca1995",
+    "user_id": "8a1b9210-023e-4db6-b30e-eba409279a8d",
+    "items_count": 3,
+    "total_amount": 990.0,
+    "currency": "GBP",
+    "product": "Protector",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-10T06:58:55.163741Z"
+  },
+  {
+    "id": "1da0eb5b-f267-402c-8a39-6825c02ef59e",
+    "user_id": "5b788c06-491d-4206-9d10-1e6bfa254839",
+    "items_count": 2,
+    "total_amount": 200.0,
+    "currency": "USD",
+    "product": "Bed Frame",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-11T16:26:55.163741Z"
+  },
+  {
+    "id": "2cf13dc4-f1ed-4045-8a98-9ca49e010262",
+    "user_id": "14ac17ff-433f-4fc9-bf1b-f2e0825627f0",
+    "items_count": 2,
+    "total_amount": 564.0,
+    "currency": "CAD",
+    "product": "Protector",
+    "payment_method": "card",
+    "purchased_at": "2025-07-19T09:39:55.163741Z"
+  },
+  {
+    "id": "b992f46b-30e2-4a28-88a8-0e6cec8e4947",
+    "user_id": "d80a3849-602d-41be-81ce-ec74c12f3baf",
+    "items_count": 3,
+    "total_amount": 540.0,
+    "currency": "GBP",
+    "product": "Smart Pillow",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-04T21:07:55.163741Z"
+  },
+  {
+    "id": "3e2d47fd-2ad3-47e2-b02a-d25f66de4441",
+    "user_id": "12276ad1-c587-4c01-b8f7-85aa25c523cf",
+    "items_count": 1,
+    "total_amount": 271.0,
+    "currency": "USD",
+    "product": "Duvet",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-04T22:11:55.163741Z"
+  },
+  {
+    "id": "673ef4cb-13c1-4b1f-aba9-96b6c346586d",
+    "user_id": "e4f2aa08-5235-4b56-a50e-82ab91fdaa9c",
+    "items_count": 3,
+    "total_amount": 1011.0,
+    "currency": "GBP",
+    "product": "Cooling Mattress",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-17T01:31:55.163741Z"
+  },
+  {
+    "id": "3eca079d-c205-4fdc-a51a-6d321d320661",
+    "user_id": "49b56407-fd55-477e-89ac-912723345971",
+    "items_count": 2,
+    "total_amount": 152.0,
+    "currency": "GBP",
+    "product": "Sheet Set",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-08-02T04:30:55.163741Z"
+  },
+  {
+    "id": "ac6c587b-11bd-4ee7-a2a3-056f5bd7bfaa",
+    "user_id": "31a45135-b2dd-44ec-8a69-54b803b0495c",
+    "items_count": 1,
+    "total_amount": 129.0,
+    "currency": "CAD",
+    "product": "Bed Frame",
+    "payment_method": "card",
+    "purchased_at": "2025-07-17T05:14:55.163741Z"
+  },
+  {
+    "id": "bdee5466-5050-431e-987a-788b7ce374bd",
+    "user_id": "3f4ed014-d00c-453f-84fd-989c4cb52ff3",
+    "items_count": 1,
+    "total_amount": 192.0,
+    "currency": "EUR",
+    "product": "Protector",
+    "payment_method": "card",
+    "purchased_at": "2025-07-01T01:46:55.163741Z"
+  },
+  {
+    "id": "63814e9a-942b-4f74-a16b-27b13a9e3997",
+    "user_id": "1c286a76-b03f-42a0-9209-f6939c715bbc",
+    "items_count": 2,
+    "total_amount": 128.0,
+    "currency": "EUR",
+    "product": "Sheet Set",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-11T12:38:55.163741Z"
+  },
+  {
+    "id": "46896370-af0b-43fb-9fe7-3cc7dafe01e0",
+    "user_id": "3528f316-0994-46a4-9091-d0e918721b4f",
+    "items_count": 1,
+    "total_amount": 142.0,
+    "currency": "EUR",
+    "product": "Protector",
+    "payment_method": "card",
+    "purchased_at": "2025-07-30T02:37:55.163741Z"
+  },
+  {
+    "id": "52444c09-1322-43eb-add8-facaad21b6ba",
+    "user_id": "a9f2dfa6-2633-4d17-b5bc-e6208269b607",
+    "items_count": 1,
+    "total_amount": 321.0,
+    "currency": "EUR",
+    "product": "Protector",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-10T12:35:55.163741Z"
+  },
+  {
+    "id": "90705e1f-8cbf-4bad-9735-95f88541c198",
+    "user_id": "f87b4781-9ca7-42eb-b866-611b2ddfaacf",
+    "items_count": 2,
+    "total_amount": 418.0,
+    "currency": "GBP",
+    "product": "Cooling Mattress",
+    "payment_method": "card",
+    "purchased_at": "2025-07-30T18:51:55.163741Z"
+  },
+  {
+    "id": "ba32dbb7-f4c7-4d04-bed8-8471de282674",
+    "user_id": "49b56407-fd55-477e-89ac-912723345971",
+    "items_count": 3,
+    "total_amount": 225.0,
+    "currency": "USD",
+    "product": "Sheet Set",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-27T09:45:55.163741Z"
+  },
+  {
+    "id": "88979741-e7e3-4a50-809a-73be7d207b0c",
+    "user_id": "150b227a-9a71-4cd0-b9ad-9593a732eb16",
+    "items_count": 3,
+    "total_amount": 828.0,
+    "currency": "CAD",
+    "product": "Sheet Set",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-21T06:44:55.163741Z"
+  },
+  {
+    "id": "8de8f554-eaa9-4634-98ed-7227cff6685e",
+    "user_id": "ec7e1aa1-4b2a-4c52-b1ca-c173b022cfc1",
+    "items_count": 2,
+    "total_amount": 540.0,
+    "currency": "USD",
+    "product": "Sheet Set",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-06T01:27:55.163741Z"
+  },
+  {
+    "id": "13b2aafa-5312-40c3-8420-c9ecbb9906dd",
+    "user_id": "d360fdf8-c8af-4ab4-be2b-af6fa7e48af3",
+    "items_count": 1,
+    "total_amount": 162.0,
+    "currency": "CAD",
+    "product": "Pod Cover",
+    "payment_method": "card",
+    "purchased_at": "2025-07-26T13:56:55.163741Z"
+  },
+  {
+    "id": "7e799fe7-f124-4043-a41a-db8df295cd7e",
+    "user_id": "5d8ca578-2453-4c26-a2bd-282cd678742d",
+    "items_count": 1,
+    "total_amount": 180.0,
+    "currency": "GBP",
+    "product": "Duvet",
+    "payment_method": "card",
+    "purchased_at": "2025-08-08T07:15:55.163741Z"
+  },
+  {
+    "id": "19c27808-e81c-4797-8f1c-4d08b84f8685",
+    "user_id": "e697b7b9-2196-4eb9-a689-fdd5758626ba",
+    "items_count": 2,
+    "total_amount": 278.0,
+    "currency": "EUR",
+    "product": "Protector",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-07T05:09:55.163741Z"
+  },
+  {
+    "id": "23bd8d67-cf0a-4886-b835-35897fb8ffcc",
+    "user_id": "ae5ee390-2a89-4b33-9765-96f7f4e060ad",
+    "items_count": 2,
+    "total_amount": 172.0,
+    "currency": "CAD",
+    "product": "Pod Cover",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-07T08:32:55.163741Z"
+  },
+  {
+    "id": "41b78b40-147f-4711-b121-e18a8fc44433",
+    "user_id": "b5305c14-b7bf-40a4-a382-66c78d2a4eb5",
+    "items_count": 2,
+    "total_amount": 688.0,
+    "currency": "CAD",
+    "product": "Protector",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-21T20:18:55.163741Z"
+  },
+  {
+    "id": "f50faf52-50e5-44dc-9107-2b6612a8c010",
+    "user_id": "3d89cfb3-e61d-44d8-ad8c-33b25c8ff8a8",
+    "items_count": 1,
+    "total_amount": 216.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-08-03T09:19:55.163741Z"
+  },
+  {
+    "id": "30353d27-2876-4a37-835f-31b7eeb3be8d",
+    "user_id": "dff35862-8a5c-4d2e-98de-30b44f6f283c",
+    "items_count": 1,
+    "total_amount": 273.0,
+    "currency": "CAD",
+    "product": "Cooling Mattress",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-14T13:38:55.163741Z"
+  },
+  {
+    "id": "78477182-8157-4353-b0ab-d39a1d281428",
+    "user_id": "e697b7b9-2196-4eb9-a689-fdd5758626ba",
+    "items_count": 2,
+    "total_amount": 326.0,
+    "currency": "GBP",
+    "product": "Smart Pillow",
+    "payment_method": "card",
+    "purchased_at": "2025-07-07T02:37:55.163741Z"
+  },
+  {
+    "id": "01d6122f-103d-4973-9e58-34ea3930a9bf",
+    "user_id": "ec7e1aa1-4b2a-4c52-b1ca-c173b022cfc1",
+    "items_count": 3,
+    "total_amount": 933.0,
+    "currency": "EUR",
+    "product": "Duvet",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-23T02:12:55.163741Z"
+  },
+  {
+    "id": "b681a9eb-8d04-4277-a224-cfcfdffd20fb",
+    "user_id": "bef70684-45f0-4d25-8a3a-8225662322eb",
+    "items_count": 1,
+    "total_amount": 102.0,
+    "currency": "EUR",
+    "product": "Sheet Set",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-28T03:40:55.163741Z"
+  },
+  {
+    "id": "4450050e-dac5-41b9-85fe-dbecdebef33b",
+    "user_id": "a6efd1a9-bc3e-4c33-a952-39222da7a41e",
+    "items_count": 3,
+    "total_amount": 264.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-21T04:59:55.163741Z"
+  },
+  {
+    "id": "b63338f0-d514-4ba8-b0de-ba310a74021a",
+    "user_id": "43a9dbda-c458-49c0-9660-ae77d5899eaa",
+    "items_count": 3,
+    "total_amount": 837.0,
+    "currency": "GBP",
+    "product": "Duvet",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-11T21:54:55.163741Z"
+  },
+  {
+    "id": "4e21d678-58fe-4b1a-a3c1-c32e9a3c0a32",
+    "user_id": "f3025738-f7df-4ad8-988c-2c56cb8e9480",
+    "items_count": 2,
+    "total_amount": 746.0,
+    "currency": "GBP",
+    "product": "Sheet Set",
+    "payment_method": "card",
+    "purchased_at": "2025-07-17T06:54:55.163741Z"
+  },
+  {
+    "id": "ce9d4729-5d88-4101-801f-b8f1589ab5e1",
+    "user_id": "b5305c14-b7bf-40a4-a382-66c78d2a4eb5",
+    "items_count": 2,
+    "total_amount": 572.0,
+    "currency": "CAD",
+    "product": "Pod Cover",
+    "payment_method": "card",
+    "purchased_at": "2025-07-16T14:26:55.163741Z"
+  },
+  {
+    "id": "e90764b7-785f-40dc-8418-46e51b8e5c77",
+    "user_id": "b5305c14-b7bf-40a4-a382-66c78d2a4eb5",
+    "items_count": 3,
+    "total_amount": 288.0,
+    "currency": "CAD",
+    "product": "Travel Case",
+    "payment_method": "card",
+    "purchased_at": "2025-07-11T04:43:55.163741Z"
+  },
+  {
+    "id": "5b928631-f17c-4281-9aae-ce5b28b29505",
+    "user_id": "c4d44576-ba3e-4a4c-868b-caa4bec31e57",
+    "items_count": 1,
+    "total_amount": 214.0,
+    "currency": "CAD",
+    "product": "Smart Pillow",
+    "payment_method": "card",
+    "purchased_at": "2025-07-11T20:42:55.163741Z"
+  },
+  {
+    "id": "3e9a66ff-42d6-436f-a9a6-ddc557467dd1",
+    "user_id": "1f309952-0aa3-4fb0-a060-0c44c41526f9",
+    "items_count": 3,
+    "total_amount": 279.0,
+    "currency": "EUR",
+    "product": "Pod Cover",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-24T09:17:55.163741Z"
+  },
+  {
+    "id": "0eaf03e3-717b-4fcd-a008-11dc801de855",
+    "user_id": "fe8c2efb-4fb3-4a15-ae0d-3b778ce37714",
+    "items_count": 3,
+    "total_amount": 951.0,
+    "currency": "EUR",
+    "product": "Duvet",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-11T14:34:55.163741Z"
+  },
+  {
+    "id": "8dcf6492-32ca-4105-af3e-11e7498d3ea4",
+    "user_id": "d171219a-59a7-4ec1-b6b8-df5beaf60331",
+    "items_count": 2,
+    "total_amount": 446.0,
+    "currency": "USD",
+    "product": "Duvet",
+    "payment_method": "card",
+    "purchased_at": "2025-07-18T21:00:55.163741Z"
+  },
+  {
+    "id": "3591edab-b477-4b0d-89d6-c1119bc82d7e",
+    "user_id": "45e6988a-739b-4917-a8d3-0d135e3124a0",
+    "items_count": 3,
+    "total_amount": 741.0,
+    "currency": "GBP",
+    "product": "Sheet Set",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-18T21:27:55.163741Z"
+  },
+  {
+    "id": "a592bde2-43d9-4407-b86f-f5ae7bbd6bcb",
+    "user_id": "0706f732-aeb3-45bd-bcd3-d0a431db8290",
+    "items_count": 3,
+    "total_amount": 366.0,
+    "currency": "GBP",
+    "product": "Sheet Set",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-31T03:55:55.163741Z"
+  },
+  {
+    "id": "5571ce5a-7fd7-43f8-905a-f1b277b5e55c",
+    "user_id": "17ffbe42-bddf-43bd-a8ea-c24f047c26c9",
+    "items_count": 1,
+    "total_amount": 208.0,
+    "currency": "CAD",
+    "product": "Duvet",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-27T00:14:55.163741Z"
+  },
+  {
+    "id": "759024e3-f4bf-482d-8294-0bfcc651ed2c",
+    "user_id": "d11f57c2-d2c1-4479-a546-83b9476315f9",
+    "items_count": 3,
+    "total_amount": 957.0,
+    "currency": "USD",
+    "product": "Protector",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-08-07T11:51:55.163741Z"
+  },
+  {
+    "id": "056ae8e8-4217-4412-b01b-67173badc927",
+    "user_id": "d360fdf8-c8af-4ab4-be2b-af6fa7e48af3",
+    "items_count": 1,
+    "total_amount": 159.0,
+    "currency": "GBP",
+    "product": "Travel Case",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-25T19:32:55.163741Z"
+  },
+  {
+    "id": "a7cc0449-e8ee-4412-ac84-985d53105d99",
+    "user_id": "a6efd1a9-bc3e-4c33-a952-39222da7a41e",
+    "items_count": 1,
+    "total_amount": 201.0,
+    "currency": "USD",
+    "product": "Pod Cover",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-13T03:08:55.163741Z"
+  },
+  {
+    "id": "a714887d-4161-4bab-be30-cbbafc9cd880",
+    "user_id": "b72b8389-ac62-48b5-8645-b60593154855",
+    "items_count": 3,
+    "total_amount": 726.0,
+    "currency": "EUR",
+    "product": "Smart Pillow",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-16T00:35:55.163741Z"
+  },
+  {
+    "id": "b0b73eab-2b68-4b81-adbf-c90db809193f",
+    "user_id": "c53755ba-d427-4783-903a-a1133c8c4d49",
+    "items_count": 3,
+    "total_amount": 402.0,
+    "currency": "CAD",
+    "product": "Pod Cover",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-16T01:08:55.163741Z"
+  },
+  {
+    "id": "097e1d4b-5a85-4e4e-a04e-fecc9c4c92e0",
+    "user_id": "65899ca8-570d-4b91-961a-42a75ce3d4ff",
+    "items_count": 1,
+    "total_amount": 277.0,
+    "currency": "GBP",
+    "product": "Travel Case",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-05T16:04:55.163741Z"
+  },
+  {
+    "id": "378a7dcf-1a32-4872-ae4d-a1a16248e6f7",
+    "user_id": "d360fdf8-c8af-4ab4-be2b-af6fa7e48af3",
+    "items_count": 2,
+    "total_amount": 298.0,
+    "currency": "GBP",
+    "product": "Travel Case",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-20T14:36:55.163741Z"
+  },
+  {
+    "id": "5a73ff4c-793d-4c99-87d2-1aa673e7c3b1",
+    "user_id": "464a3fa4-36aa-41e5-8ff7-d65548af561b",
+    "items_count": 2,
+    "total_amount": 614.0,
+    "currency": "CAD",
+    "product": "Smart Pillow",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-18T03:35:55.163741Z"
+  },
+  {
+    "id": "4a9a1b4a-bb7f-4a0d-afc0-18534ac9a24d",
+    "user_id": "99598199-55bb-449a-b9b2-f9893375efb6",
+    "items_count": 2,
+    "total_amount": 152.0,
+    "currency": "CAD",
+    "product": "Duvet",
+    "payment_method": "card",
+    "purchased_at": "2025-06-24T06:37:55.163741Z"
+  },
+  {
+    "id": "a8457488-7ed6-49e5-9056-3dfdc17c5ffb",
+    "user_id": "fee4ded3-26ef-4f30-b5ce-bed44c07fb80",
+    "items_count": 2,
+    "total_amount": 184.0,
+    "currency": "EUR",
+    "product": "Sheet Set",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-12T06:42:55.163741Z"
+  },
+  {
+    "id": "1cf2c75b-2330-40fd-aec5-de9325442974",
+    "user_id": "bef70684-45f0-4d25-8a3a-8225662322eb",
+    "items_count": 2,
+    "total_amount": 192.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-10T23:19:55.163741Z"
+  },
+  {
+    "id": "dc81c058-1d32-48ed-8843-041ac54205ea",
+    "user_id": "1450ccb9-390b-4eb1-9541-2850b290e476",
+    "items_count": 1,
+    "total_amount": 252.0,
+    "currency": "GBP",
+    "product": "Bed Frame",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-03T11:26:55.163741Z"
+  },
+  {
+    "id": "2677a546-c9a2-4aa7-b168-f1eaa394c64c",
+    "user_id": "43d2d64f-45b7-4a92-9a1e-e256b04f1cb3",
+    "items_count": 1,
+    "total_amount": 213.0,
+    "currency": "USD",
+    "product": "Duvet",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-31T22:55:55.163741Z"
+  },
+  {
+    "id": "398111c7-98f5-4a7e-88c8-029533e5bb06",
+    "user_id": "f8718d13-e6bc-44b1-9e29-6d48de8a9bd5",
+    "items_count": 2,
+    "total_amount": 242.0,
+    "currency": "CAD",
+    "product": "Travel Case",
+    "payment_method": "card",
+    "purchased_at": "2025-06-12T21:31:55.163741Z"
+  },
+  {
+    "id": "21a1cf44-7a13-44e3-ab67-0dfae34f6a2b",
+    "user_id": "480399aa-5665-4836-82a2-1b7cfafcf946",
+    "items_count": 2,
+    "total_amount": 320.0,
+    "currency": "EUR",
+    "product": "Protector",
+    "payment_method": "card",
+    "purchased_at": "2025-06-20T14:23:55.163741Z"
+  },
+  {
+    "id": "f31391a9-5f3d-4fb4-a219-885f016fc309",
+    "user_id": "1636788c-edc2-43a7-ad7a-d6d0ec7eff61",
+    "items_count": 2,
+    "total_amount": 224.0,
+    "currency": "USD",
+    "product": "Bed Frame",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-29T02:58:55.163741Z"
+  },
+  {
+    "id": "669ad34a-c123-4ca0-891d-e0e977490a4e",
+    "user_id": "59dca371-dc77-4545-bd4f-18cc4c1cb009",
+    "items_count": 1,
+    "total_amount": 106.0,
+    "currency": "CAD",
+    "product": "Pod Cover",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-24T19:19:55.163741Z"
+  },
+  {
+    "id": "ff8657f3-6a83-4f6a-814f-a98dc16f80d1",
+    "user_id": "dec4a03b-7cb1-4a0f-af4f-6e913bd01dfb",
+    "items_count": 2,
+    "total_amount": 100.0,
+    "currency": "GBP",
+    "product": "Bed Frame",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-28T01:33:55.163741Z"
+  },
+  {
+    "id": "584ec2d5-1e86-4a49-b09f-1b82c656cbc0",
+    "user_id": "ae5ee390-2a89-4b33-9765-96f7f4e060ad",
+    "items_count": 1,
+    "total_amount": 318.0,
+    "currency": "GBP",
+    "product": "Cooling Mattress",
+    "payment_method": "card",
+    "purchased_at": "2025-07-15T08:11:55.163741Z"
+  },
+  {
+    "id": "e2ea57f0-19c4-4994-b7ed-5f458acaa070",
+    "user_id": "c68b6fe2-464b-4f53-b5a2-fb472d333195",
+    "items_count": 3,
+    "total_amount": 744.0,
+    "currency": "GBP",
+    "product": "Sheet Set",
+    "payment_method": "card",
+    "purchased_at": "2025-07-17T21:55:55.163741Z"
+  },
+  {
+    "id": "3c051ba7-a913-4193-af76-ba87fdafc353",
+    "user_id": "3528f316-0994-46a4-9091-d0e918721b4f",
+    "items_count": 1,
+    "total_amount": 386.0,
+    "currency": "USD",
+    "product": "Duvet",
+    "payment_method": "paypal",
+    "purchased_at": "2025-08-06T12:12:55.163741Z"
+  },
+  {
+    "id": "28e42b66-5c0d-40be-b4aa-a49a6408c4b1",
+    "user_id": "9f39a3af-ea0a-4528-8f4a-130d22ee3e96",
+    "items_count": 2,
+    "total_amount": 758.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-29T18:00:55.163741Z"
+  },
+  {
+    "id": "31c99e93-b8a7-4bae-88bc-10f34b67c1dd",
+    "user_id": "99598199-55bb-449a-b9b2-f9893375efb6",
+    "items_count": 1,
+    "total_amount": 284.0,
+    "currency": "USD",
+    "product": "Sheet Set",
+    "payment_method": "paypal",
+    "purchased_at": "2025-08-06T17:25:55.163741Z"
+  },
+  {
+    "id": "ef54a7cd-aa42-4b30-8c2a-bd0ddeedf3ef",
+    "user_id": "c68b6fe2-464b-4f53-b5a2-fb472d333195",
+    "items_count": 2,
+    "total_amount": 416.0,
+    "currency": "CAD",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-08-06T02:09:55.163741Z"
+  },
+  {
+    "id": "48a8fb98-9bff-4e67-a3d7-48adefa40c83",
+    "user_id": "343607d8-cfe4-4a64-9dce-2eb4599ef233",
+    "items_count": 2,
+    "total_amount": 464.0,
+    "currency": "USD",
+    "product": "Duvet",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-08-01T11:40:55.163741Z"
+  },
+  {
+    "id": "defddd7f-081f-4826-9fa6-c250ac33b248",
+    "user_id": "83f89331-3835-408f-888f-1c753919ccf3",
+    "items_count": 2,
+    "total_amount": 550.0,
+    "currency": "CAD",
+    "product": "Duvet",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-08T00:36:55.163741Z"
+  },
+  {
+    "id": "9b9b6623-b233-4943-809e-a3051b99e264",
+    "user_id": "4f43ff83-d511-42f0-9c52-921cac2c78a6",
+    "items_count": 2,
+    "total_amount": 630.0,
+    "currency": "GBP",
+    "product": "Cooling Mattress",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-03T09:32:55.163741Z"
+  },
+  {
+    "id": "73d8c229-cf7c-4a09-8260-7dc2b5c342d4",
+    "user_id": "5b788c06-491d-4206-9d10-1e6bfa254839",
+    "items_count": 1,
+    "total_amount": 329.0,
+    "currency": "GBP",
+    "product": "Duvet",
+    "payment_method": "card",
+    "purchased_at": "2025-08-03T13:02:55.163741Z"
+  },
+  {
+    "id": "8f4e2bd8-b29b-4f13-b63b-ad2419ecd9ac",
+    "user_id": "68a0be1f-6c47-477c-8437-d38a706bf644",
+    "items_count": 2,
+    "total_amount": 412.0,
+    "currency": "CAD",
+    "product": "Protector",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-25T09:04:55.163741Z"
+  },
+  {
+    "id": "ddf8f100-398c-4a15-a198-f1adb33c9262",
+    "user_id": "3528f316-0994-46a4-9091-d0e918721b4f",
+    "items_count": 2,
+    "total_amount": 142.0,
+    "currency": "GBP",
+    "product": "Protector",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-29T22:16:55.163741Z"
+  },
+  {
+    "id": "371bd3f8-2ec6-44d0-b439-0880ea43518b",
+    "user_id": "b5305c14-b7bf-40a4-a382-66c78d2a4eb5",
+    "items_count": 3,
+    "total_amount": 1128.0,
+    "currency": "CAD",
+    "product": "Duvet",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-09T23:10:55.163741Z"
+  },
+  {
+    "id": "1711f346-3e20-40f7-a42f-8ead19cb33ec",
+    "user_id": "bef70684-45f0-4d25-8a3a-8225662322eb",
+    "items_count": 3,
+    "total_amount": 1191.0,
+    "currency": "CAD",
+    "product": "Pod Cover",
+    "payment_method": "paypal",
+    "purchased_at": "2025-08-04T16:10:55.163741Z"
+  },
+  {
+    "id": "6cd17cd2-e7dd-430e-961d-5e2cd3dd841f",
+    "user_id": "464a3fa4-36aa-41e5-8ff7-d65548af561b",
+    "items_count": 3,
+    "total_amount": 711.0,
+    "currency": "GBP",
+    "product": "Protector",
+    "payment_method": "card",
+    "purchased_at": "2025-07-01T18:59:55.163741Z"
+  },
+  {
+    "id": "4932f8d5-2f6f-4c16-a333-d72a8a213426",
+    "user_id": "99a30d30-7b13-47e5-8fa4-84c2793fe0f0",
+    "items_count": 2,
+    "total_amount": 478.0,
+    "currency": "GBP",
+    "product": "Travel Case",
+    "payment_method": "card",
+    "purchased_at": "2025-07-03T19:32:55.163741Z"
+  },
+  {
+    "id": "faa86301-bfcb-4c6d-b749-d5f1047034f2",
+    "user_id": "9f2acc9a-7642-4965-a842-c7b4ea19f53a",
+    "items_count": 2,
+    "total_amount": 506.0,
+    "currency": "GBP",
+    "product": "Sheet Set",
+    "payment_method": "paypal",
+    "purchased_at": "2025-08-01T23:20:55.163741Z"
+  },
+  {
+    "id": "1ab78b00-af08-40ad-af0d-bbcd2acea2ff",
+    "user_id": "d11f57c2-d2c1-4479-a546-83b9476315f9",
+    "items_count": 1,
+    "total_amount": 305.0,
+    "currency": "CAD",
+    "product": "Cooling Mattress",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-20T15:20:55.163741Z"
+  },
+  {
+    "id": "ea4703fa-2356-4eab-8129-08242984766c",
+    "user_id": "17ffbe42-bddf-43bd-a8ea-c24f047c26c9",
+    "items_count": 2,
+    "total_amount": 318.0,
+    "currency": "GBP",
+    "product": "Travel Case",
+    "payment_method": "paypal",
+    "purchased_at": "2025-08-01T19:36:55.163741Z"
+  },
+  {
+    "id": "11848ae1-a014-466f-91e0-890422e644b4",
+    "user_id": "b5305c14-b7bf-40a4-a382-66c78d2a4eb5",
+    "items_count": 2,
+    "total_amount": 276.0,
+    "currency": "CAD",
+    "product": "Cooling Mattress",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-27T12:22:55.163741Z"
+  },
+  {
+    "id": "db072506-9e29-4449-896c-4fc64781578a",
+    "user_id": "17ffbe42-bddf-43bd-a8ea-c24f047c26c9",
+    "items_count": 1,
+    "total_amount": 331.0,
+    "currency": "GBP",
+    "product": "Sheet Set",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-24T00:19:55.163741Z"
+  },
+  {
+    "id": "7a024910-1d6f-488d-b2fb-608c4ba9f57a",
+    "user_id": "8a1b9210-023e-4db6-b30e-eba409279a8d",
+    "items_count": 1,
+    "total_amount": 235.0,
+    "currency": "EUR",
+    "product": "Cooling Mattress",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-19T19:29:55.163741Z"
+  },
+  {
+    "id": "b12551d5-31c1-416f-a213-ebc4e31c11f8",
+    "user_id": "1636788c-edc2-43a7-ad7a-d6d0ec7eff61",
+    "items_count": 2,
+    "total_amount": 126.0,
+    "currency": "GBP",
+    "product": "Duvet",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-18T05:24:55.163741Z"
+  },
+  {
+    "id": "f7657439-f82c-403c-ad59-3b38c2ee793c",
+    "user_id": "b72b8389-ac62-48b5-8645-b60593154855",
+    "items_count": 3,
+    "total_amount": 282.0,
+    "currency": "USD",
+    "product": "Sheet Set",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-24T07:53:55.163741Z"
+  },
+  {
+    "id": "c61e436f-8520-455d-8cb2-6fc3a8466997",
+    "user_id": "9f2acc9a-7642-4965-a842-c7b4ea19f53a",
+    "items_count": 2,
+    "total_amount": 518.0,
+    "currency": "USD",
+    "product": "Smart Pillow",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-28T21:42:55.163741Z"
+  },
+  {
+    "id": "97d39a7a-d763-4694-b41f-395d48f85a09",
+    "user_id": "f7f44703-8bf8-4083-b639-d38da66d456f",
+    "items_count": 2,
+    "total_amount": 796.0,
+    "currency": "GBP",
+    "product": "Smart Pillow",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-20T19:49:55.163741Z"
+  },
+  {
+    "id": "e1b18787-a124-400c-ab11-13e274ac2d25",
+    "user_id": "83f89331-3835-408f-888f-1c753919ccf3",
+    "items_count": 3,
+    "total_amount": 234.0,
+    "currency": "USD",
+    "product": "Smart Pillow",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-29T18:42:55.163741Z"
+  },
+  {
+    "id": "f595bfb2-af7e-45cc-9eac-c9058583496c",
+    "user_id": "ce6272f8-b859-4639-81c0-973e2fe9f0d0",
+    "items_count": 3,
+    "total_amount": 495.0,
+    "currency": "GBP",
+    "product": "Sheet Set",
+    "payment_method": "card",
+    "purchased_at": "2025-07-23T17:31:55.163741Z"
+  },
+  {
+    "id": "74ae7890-3e13-403c-b3f2-3d4f6c1af4c3",
+    "user_id": "8a1b9210-023e-4db6-b30e-eba409279a8d",
+    "items_count": 3,
+    "total_amount": 570.0,
+    "currency": "EUR",
+    "product": "Sheet Set",
+    "payment_method": "card",
+    "purchased_at": "2025-07-07T02:21:55.163741Z"
+  },
+  {
+    "id": "68bd17aa-3140-4444-bf0c-abb9fbfb121c",
+    "user_id": "02377d26-14d1-4752-b217-1e40041e1488",
+    "items_count": 3,
+    "total_amount": 1041.0,
+    "currency": "EUR",
+    "product": "Smart Pillow",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-16T04:59:55.163741Z"
+  },
+  {
+    "id": "fef08ef9-49de-4b36-83fc-3d6cca3aa41c",
+    "user_id": "c68b6fe2-464b-4f53-b5a2-fb472d333195",
+    "items_count": 1,
+    "total_amount": 91.0,
+    "currency": "USD",
+    "product": "Sheet Set",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-20T04:42:55.163741Z"
+  },
+  {
+    "id": "86b89957-a92f-4222-b220-31909751a7be",
+    "user_id": "1450ccb9-390b-4eb1-9541-2850b290e476",
+    "items_count": 3,
+    "total_amount": 1131.0,
+    "currency": "USD",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-28T13:55:55.163741Z"
+  },
+  {
+    "id": "79186f4f-def2-4b59-a028-41d160887431",
+    "user_id": "51e15e70-02e2-4f25-af16-9cc9bf58eebb",
+    "items_count": 1,
+    "total_amount": 400.0,
+    "currency": "CAD",
+    "product": "Sheet Set",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-04T00:43:55.163741Z"
+  },
+  {
+    "id": "33fb4b74-7a57-4c58-b1fd-a3ac03562931",
+    "user_id": "57dd69c3-2277-4e18-945b-bcf93f3c8a36",
+    "items_count": 1,
+    "total_amount": 275.0,
+    "currency": "CAD",
+    "product": "Travel Case",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-26T12:37:55.163741Z"
+  },
+  {
+    "id": "30eaeda9-4d26-41e5-9c99-c1901f6734ff",
+    "user_id": "5b788c06-491d-4206-9d10-1e6bfa254839",
+    "items_count": 1,
+    "total_amount": 210.0,
+    "currency": "GBP",
+    "product": "Duvet",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-31T11:35:55.163741Z"
+  },
+  {
+    "id": "69ec964e-9a32-411e-881f-202eea30cbc6",
+    "user_id": "1b43c907-2062-4edf-b328-0b893186acec",
+    "items_count": 3,
+    "total_amount": 312.0,
+    "currency": "GBP",
+    "product": "Bed Frame",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-01T15:06:55.163741Z"
+  },
+  {
+    "id": "b34b9323-64bb-4d2e-b3bd-55e2cf7dc9ea",
+    "user_id": "f7f44703-8bf8-4083-b639-d38da66d456f",
+    "items_count": 1,
+    "total_amount": 122.0,
+    "currency": "USD",
+    "product": "Pod Cover",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-09T11:07:55.163741Z"
+  },
+  {
+    "id": "76062eb2-f838-44d4-ab17-274ec85a4666",
+    "user_id": "250db2ef-729f-4d6d-bd4c-bdc6a3addb4a",
+    "items_count": 2,
+    "total_amount": 354.0,
+    "currency": "EUR",
+    "product": "Duvet",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-27T18:47:55.163741Z"
+  },
+  {
+    "id": "1c205386-8caf-4d91-976f-b02dd2678ad1",
+    "user_id": "4f43ff83-d511-42f0-9c52-921cac2c78a6",
+    "items_count": 3,
+    "total_amount": 867.0,
+    "currency": "CAD",
+    "product": "Sheet Set",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-07T21:09:55.163741Z"
+  },
+  {
+    "id": "4446891c-ebb4-4b06-b1e3-d18ddabe8c09",
+    "user_id": "e557252e-6ab6-404e-8146-42bfcc79bb3c",
+    "items_count": 3,
+    "total_amount": 852.0,
+    "currency": "EUR",
+    "product": "Bed Frame",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-08-05T22:30:55.163741Z"
+  },
+  {
+    "id": "ae1f9ece-5ad8-404f-a7de-2ad5cb358b8e",
+    "user_id": "f8718d13-e6bc-44b1-9e29-6d48de8a9bd5",
+    "items_count": 2,
+    "total_amount": 710.0,
+    "currency": "CAD",
+    "product": "Sheet Set",
+    "payment_method": "card",
+    "purchased_at": "2025-06-15T20:33:55.163741Z"
+  },
+  {
+    "id": "6584a477-94e7-432a-aacb-ba7beb09038e",
+    "user_id": "83f89331-3835-408f-888f-1c753919ccf3",
+    "items_count": 1,
+    "total_amount": 185.0,
+    "currency": "GBP",
+    "product": "Protector",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-08-06T10:33:55.163741Z"
+  },
+  {
+    "id": "55bdefc9-b272-40ff-8632-549635a004a3",
+    "user_id": "52b44dc2-5aa1-4941-a6c0-6e5c3587ded1",
+    "items_count": 3,
+    "total_amount": 1011.0,
+    "currency": "EUR",
+    "product": "Duvet",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-08-04T11:02:55.163741Z"
+  },
+  {
+    "id": "adac2c7e-b281-4e65-bf98-1fe5d8b6472a",
+    "user_id": "31a45135-b2dd-44ec-8a69-54b803b0495c",
+    "items_count": 2,
+    "total_amount": 662.0,
+    "currency": "GBP",
+    "product": "Cooling Mattress",
+    "payment_method": "paypal",
+    "purchased_at": "2025-08-02T10:47:55.163741Z"
+  },
+  {
+    "id": "24178cc6-b124-4311-8219-971e0b22d4ec",
+    "user_id": "3f4ed014-d00c-453f-84fd-989c4cb52ff3",
+    "items_count": 2,
+    "total_amount": 670.0,
+    "currency": "GBP",
+    "product": "Smart Pillow",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-01T06:51:55.163741Z"
+  },
+  {
+    "id": "a9cd8983-1a1a-496e-8b68-ae0b3a803862",
+    "user_id": "3d89cfb3-e61d-44d8-ad8c-33b25c8ff8a8",
+    "items_count": 3,
+    "total_amount": 210.0,
+    "currency": "USD",
+    "product": "Pod Cover",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-24T12:51:55.163741Z"
+  },
+  {
+    "id": "cf61e687-f0a8-4297-afad-6dabb8f9353d",
+    "user_id": "f3025738-f7df-4ad8-988c-2c56cb8e9480",
+    "items_count": 3,
+    "total_amount": 849.0,
+    "currency": "EUR",
+    "product": "Smart Pillow",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-10T03:18:55.163741Z"
+  },
+  {
+    "id": "00c8df51-3f37-407f-aa52-50ebe9679d11",
+    "user_id": "d80a3849-602d-41be-81ce-ec74c12f3baf",
+    "items_count": 1,
+    "total_amount": 251.0,
+    "currency": "GBP",
+    "product": "Duvet",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-24T05:01:55.163741Z"
+  },
+  {
+    "id": "bbf1b562-2b99-404d-ad53-8ef2ae61fad9",
+    "user_id": "d021c0b2-bbe1-47eb-9714-29742fd50873",
+    "items_count": 2,
+    "total_amount": 116.0,
+    "currency": "GBP",
+    "product": "Duvet",
+    "payment_method": "card",
+    "purchased_at": "2025-07-13T04:18:55.163741Z"
+  },
+  {
+    "id": "cc551cba-3fb8-4ef0-bcf6-9832b13ee0aa",
+    "user_id": "d360fdf8-c8af-4ab4-be2b-af6fa7e48af3",
+    "items_count": 3,
+    "total_amount": 1116.0,
+    "currency": "USD",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-28T04:29:55.163741Z"
+  },
+  {
+    "id": "531634dc-772e-4eef-8843-f1462a39dde0",
+    "user_id": "dd751bf9-5061-41a3-8b4c-e2782b1b62a1",
+    "items_count": 1,
+    "total_amount": 76.0,
+    "currency": "CAD",
+    "product": "Smart Pillow",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-30T00:59:55.163741Z"
+  },
+  {
+    "id": "4751cb51-0ef3-467d-afef-38ac2e8e0512",
+    "user_id": "2190c111-eebb-4f07-a124-ab8254aaf458",
+    "items_count": 1,
+    "total_amount": 343.0,
+    "currency": "USD",
+    "product": "Bed Frame",
+    "payment_method": "card",
+    "purchased_at": "2025-07-11T13:31:55.163741Z"
+  },
+  {
+    "id": "bfae76dd-636e-4139-b852-f94b4c29487c",
+    "user_id": "1450ccb9-390b-4eb1-9541-2850b290e476",
+    "items_count": 1,
+    "total_amount": 261.0,
+    "currency": "EUR",
+    "product": "Protector",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-14T22:06:55.163741Z"
+  },
+  {
+    "id": "c462eae1-9f60-46da-a493-cc49e26c036d",
+    "user_id": "17ffbe42-bddf-43bd-a8ea-c24f047c26c9",
+    "items_count": 1,
+    "total_amount": 315.0,
+    "currency": "EUR",
+    "product": "Duvet",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-06T11:22:55.163741Z"
+  },
+  {
+    "id": "ce152857-13fc-4d9b-a920-7794f5168cf7",
+    "user_id": "d80a3849-602d-41be-81ce-ec74c12f3baf",
+    "items_count": 1,
+    "total_amount": 285.0,
+    "currency": "GBP",
+    "product": "Duvet",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-30T07:42:55.163741Z"
+  },
+  {
+    "id": "f1c9c181-d910-48ea-b987-fe00423d472f",
+    "user_id": "343607d8-cfe4-4a64-9dce-2eb4599ef233",
+    "items_count": 1,
+    "total_amount": 192.0,
+    "currency": "GBP",
+    "product": "Bed Frame",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-20T14:22:55.163741Z"
+  },
+  {
+    "id": "868b9de0-0d29-454e-81ef-be7dbca3eeec",
+    "user_id": "17ffbe42-bddf-43bd-a8ea-c24f047c26c9",
+    "items_count": 1,
+    "total_amount": 300.0,
+    "currency": "GBP",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-04T14:53:55.163741Z"
+  },
+  {
+    "id": "b174b76f-03c6-4f51-b186-8469eb5685ef",
+    "user_id": "f8718d13-e6bc-44b1-9e29-6d48de8a9bd5",
+    "items_count": 1,
+    "total_amount": 343.0,
+    "currency": "CAD",
+    "product": "Protector",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-20T19:14:55.163741Z"
+  },
+  {
+    "id": "2bc8967d-30bf-47da-9a9f-4e8299a3fe34",
+    "user_id": "dec4a03b-7cb1-4a0f-af4f-6e913bd01dfb",
+    "items_count": 1,
+    "total_amount": 197.0,
+    "currency": "USD",
+    "product": "Duvet",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-28T15:28:55.163741Z"
+  },
+  {
+    "id": "71041a4a-fde1-4187-b780-b89df8d71406",
+    "user_id": "e697b7b9-2196-4eb9-a689-fdd5758626ba",
+    "items_count": 2,
+    "total_amount": 318.0,
+    "currency": "EUR",
+    "product": "Sheet Set",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-31T20:30:55.163741Z"
+  },
+  {
+    "id": "6c7debc3-6360-47b7-816a-b18c30ce096e",
+    "user_id": "250db2ef-729f-4d6d-bd4c-bdc6a3addb4a",
+    "items_count": 3,
+    "total_amount": 1050.0,
+    "currency": "EUR",
+    "product": "Bed Frame",
+    "payment_method": "card",
+    "purchased_at": "2025-06-27T06:06:55.163741Z"
+  },
+  {
+    "id": "e3c01d42-eb64-44a6-b3d4-151bc6fb1ffb",
+    "user_id": "43d2d64f-45b7-4a92-9a1e-e256b04f1cb3",
+    "items_count": 3,
+    "total_amount": 507.0,
+    "currency": "USD",
+    "product": "Cooling Mattress",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-18T08:06:55.163741Z"
+  },
+  {
+    "id": "12466587-c286-47c1-bc5b-ea50c01fa1ac",
+    "user_id": "2f92a281-60ef-4b89-91bf-602874c4353f",
+    "items_count": 3,
+    "total_amount": 360.0,
+    "currency": "USD",
+    "product": "Smart Pillow",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-28T07:59:55.163741Z"
+  },
+  {
+    "id": "83474bfc-327c-4d6c-9dd9-e5f73fe3ed50",
+    "user_id": "51e15e70-02e2-4f25-af16-9cc9bf58eebb",
+    "items_count": 3,
+    "total_amount": 456.0,
+    "currency": "GBP",
+    "product": "Duvet",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-28T22:12:55.163741Z"
+  },
+  {
+    "id": "3c3974b7-42ba-4f71-8677-d3da7335c565",
+    "user_id": "c53755ba-d427-4783-903a-a1133c8c4d49",
+    "items_count": 1,
+    "total_amount": 383.0,
+    "currency": "EUR",
+    "product": "Pod Cover",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-13T18:13:55.163741Z"
+  },
+  {
+    "id": "737416e7-0008-43e5-9711-c2836161a4c4",
+    "user_id": "c4866990-cef7-470d-9910-3a400378f31e",
+    "items_count": 2,
+    "total_amount": 606.0,
+    "currency": "EUR",
+    "product": "Sheet Set",
+    "payment_method": "card",
+    "purchased_at": "2025-08-08T14:02:55.163741Z"
+  },
+  {
+    "id": "6526d037-71ef-4401-b76f-624753535cd9",
+    "user_id": "7281e1df-b93a-4ade-b1a2-2e3a58ae975c",
+    "items_count": 3,
+    "total_amount": 312.0,
+    "currency": "GBP",
+    "product": "Sheet Set",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-28T05:41:55.163741Z"
+  },
+  {
+    "id": "2896f7a5-f04f-4135-b79d-03951b370e90",
+    "user_id": "9f2acc9a-7642-4965-a842-c7b4ea19f53a",
+    "items_count": 2,
+    "total_amount": 236.0,
+    "currency": "CAD",
+    "product": "Sheet Set",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-18T20:23:55.163741Z"
+  },
+  {
+    "id": "f7f4e028-2513-482c-bbb0-6f9488dff0d7",
+    "user_id": "1a690b28-4a48-47dc-8e16-08bebdd14773",
+    "items_count": 1,
+    "total_amount": 284.0,
+    "currency": "GBP",
+    "product": "Smart Pillow",
+    "payment_method": "card",
+    "purchased_at": "2025-06-22T12:43:55.163741Z"
+  },
+  {
+    "id": "fa3ce163-8e75-44ea-886d-80cc27377a30",
+    "user_id": "dec4a03b-7cb1-4a0f-af4f-6e913bd01dfb",
+    "items_count": 3,
+    "total_amount": 1185.0,
+    "currency": "EUR",
+    "product": "Smart Pillow",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-17T09:38:55.163741Z"
+  },
+  {
+    "id": "71a81ac0-2a60-48c5-b96e-cca862beda01",
+    "user_id": "1b43c907-2062-4edf-b328-0b893186acec",
+    "items_count": 2,
+    "total_amount": 188.0,
+    "currency": "CAD",
+    "product": "Cooling Mattress",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-31T07:56:55.163741Z"
+  },
+  {
+    "id": "27ff0088-d44e-4305-a124-c6c350913bd3",
+    "user_id": "ce6272f8-b859-4639-81c0-973e2fe9f0d0",
+    "items_count": 1,
+    "total_amount": 53.0,
+    "currency": "GBP",
+    "product": "Protector",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-11T15:07:55.163741Z"
+  },
+  {
+    "id": "8422938a-0b17-4a71-85c8-535198958a52",
+    "user_id": "1a690b28-4a48-47dc-8e16-08bebdd14773",
+    "items_count": 2,
+    "total_amount": 696.0,
+    "currency": "USD",
+    "product": "Sheet Set",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-25T16:10:55.163741Z"
+  },
+  {
+    "id": "2bf79ca8-3390-4196-ab99-fd9814b24d81",
+    "user_id": "57dd69c3-2277-4e18-945b-bcf93f3c8a36",
+    "items_count": 3,
+    "total_amount": 330.0,
+    "currency": "CAD",
+    "product": "Sheet Set",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-14T00:48:55.163741Z"
+  },
+  {
+    "id": "85d9dee0-26a4-43b7-a81b-3a592ec54212",
+    "user_id": "31a45135-b2dd-44ec-8a69-54b803b0495c",
+    "items_count": 3,
+    "total_amount": 627.0,
+    "currency": "USD",
+    "product": "Sheet Set",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-30T16:41:55.163741Z"
+  },
+  {
+    "id": "481e1164-9f10-401b-8210-134cc83930d9",
+    "user_id": "43d2d64f-45b7-4a92-9a1e-e256b04f1cb3",
+    "items_count": 1,
+    "total_amount": 294.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-13T00:16:55.163741Z"
+  },
+  {
+    "id": "781743f3-fddf-4402-98a2-8c386e8165a7",
+    "user_id": "293bdf28-e032-4cd0-bb7e-6425c03eccb5",
+    "items_count": 2,
+    "total_amount": 650.0,
+    "currency": "EUR",
+    "product": "Bed Frame",
+    "payment_method": "card",
+    "purchased_at": "2025-07-06T08:59:55.163741Z"
+  },
+  {
+    "id": "f4198da4-5368-4f2f-84f0-1a54ee23c764",
+    "user_id": "9f2acc9a-7642-4965-a842-c7b4ea19f53a",
+    "items_count": 3,
+    "total_amount": 705.0,
+    "currency": "USD",
+    "product": "Cooling Mattress",
+    "payment_method": "card",
+    "purchased_at": "2025-06-16T05:32:55.163741Z"
+  },
+  {
+    "id": "8d445fd6-2e16-4d10-bb17-3c50171592ec",
+    "user_id": "31a45135-b2dd-44ec-8a69-54b803b0495c",
+    "items_count": 1,
+    "total_amount": 343.0,
+    "currency": "EUR",
+    "product": "Smart Pillow",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-15T06:28:55.163741Z"
+  },
+  {
+    "id": "dd774dde-652f-441d-8566-751511b02a46",
+    "user_id": "fe8c2efb-4fb3-4a15-ae0d-3b778ce37714",
+    "items_count": 1,
+    "total_amount": 398.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "card",
+    "purchased_at": "2025-06-12T06:48:55.163741Z"
+  },
+  {
+    "id": "51359a3c-e068-4f72-96aa-c9dd5842a98a",
+    "user_id": "f7f44703-8bf8-4083-b639-d38da66d456f",
+    "items_count": 1,
+    "total_amount": 282.0,
+    "currency": "EUR",
+    "product": "Protector",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-03T22:15:55.163741Z"
+  },
+  {
+    "id": "ce030f96-3a69-49c1-a508-cca7e731e784",
+    "user_id": "45e6988a-739b-4917-a8d3-0d135e3124a0",
+    "items_count": 2,
+    "total_amount": 788.0,
+    "currency": "GBP",
+    "product": "Pod Cover",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-24T00:07:55.163741Z"
+  },
+  {
+    "id": "24ac17e4-21bc-4bd7-84b0-7599941e7f06",
+    "user_id": "e697b7b9-2196-4eb9-a689-fdd5758626ba",
+    "items_count": 1,
+    "total_amount": 346.0,
+    "currency": "USD",
+    "product": "Pod Cover",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-17T00:19:55.163741Z"
+  },
+  {
+    "id": "cbb82d00-5d2a-42d6-a29d-b4ddef429565",
+    "user_id": "06480127-a897-438d-b5b6-b09fb290d656",
+    "items_count": 3,
+    "total_amount": 240.0,
+    "currency": "USD",
+    "product": "Travel Case",
+    "payment_method": "card",
+    "purchased_at": "2025-07-21T10:16:55.163741Z"
+  },
+  {
+    "id": "8b665fae-d702-48e7-af62-60f691f9ff36",
+    "user_id": "068dd257-0990-4947-8791-4610fb94eda1",
+    "items_count": 1,
+    "total_amount": 378.0,
+    "currency": "CAD",
+    "product": "Duvet",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-11T11:20:55.163741Z"
+  },
+  {
+    "id": "852f9c69-15b9-40cc-ac8d-ac87d6d0d308",
+    "user_id": "3a2a3ff8-734e-4c92-925e-e365a3922023",
+    "items_count": 1,
+    "total_amount": 399.0,
+    "currency": "EUR",
+    "product": "Duvet",
+    "payment_method": "card",
+    "purchased_at": "2025-07-28T05:53:55.163741Z"
+  },
+  {
+    "id": "9afaba4a-a3a7-4c3e-b672-679540d3b646",
+    "user_id": "e557252e-6ab6-404e-8146-42bfcc79bb3c",
+    "items_count": 3,
+    "total_amount": 345.0,
+    "currency": "EUR",
+    "product": "Pod Cover",
+    "payment_method": "card",
+    "purchased_at": "2025-07-20T08:25:55.163741Z"
+  },
+  {
+    "id": "9f3e063d-9dee-4d39-afe2-b40b1ac353ac",
+    "user_id": "99a30d30-7b13-47e5-8fa4-84c2793fe0f0",
+    "items_count": 3,
+    "total_amount": 984.0,
+    "currency": "CAD",
+    "product": "Protector",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-24T08:30:55.163741Z"
+  },
+  {
+    "id": "90150edc-6ae6-4c61-aacb-d7529b3dce65",
+    "user_id": "3528f316-0994-46a4-9091-d0e918721b4f",
+    "items_count": 1,
+    "total_amount": 191.0,
+    "currency": "EUR",
+    "product": "Cooling Mattress",
+    "payment_method": "card",
+    "purchased_at": "2025-06-18T01:41:55.163741Z"
+  },
+  {
+    "id": "4c65c4ba-3970-4bcb-9890-a73dd8e4ac56",
+    "user_id": "1450ccb9-390b-4eb1-9541-2850b290e476",
+    "items_count": 3,
+    "total_amount": 174.0,
+    "currency": "EUR",
+    "product": "Bed Frame",
+    "payment_method": "card",
+    "purchased_at": "2025-08-02T03:57:55.163741Z"
+  },
+  {
+    "id": "14b62a26-9c87-44d3-94fa-8f42ae8ff62b",
+    "user_id": "c4866990-cef7-470d-9910-3a400378f31e",
+    "items_count": 2,
+    "total_amount": 712.0,
+    "currency": "USD",
+    "product": "Bed Frame",
+    "payment_method": "card",
+    "purchased_at": "2025-07-14T09:15:55.163741Z"
+  },
+  {
+    "id": "71dc2961-8dfd-4342-8beb-7ae861ec3db7",
+    "user_id": "ecc3444d-e9fb-47c9-af8d-923a2538383d",
+    "items_count": 3,
+    "total_amount": 483.0,
+    "currency": "USD",
+    "product": "Smart Pillow",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-25T04:34:55.163741Z"
+  },
+  {
+    "id": "794a7ac6-cbcc-4333-ab6c-3384fcf6af23",
+    "user_id": "d80a3849-602d-41be-81ce-ec74c12f3baf",
+    "items_count": 3,
+    "total_amount": 1068.0,
+    "currency": "GBP",
+    "product": "Bed Frame",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-13T19:20:55.163741Z"
+  },
+  {
+    "id": "c971b9f0-1695-47e7-87c6-a0a48d222458",
+    "user_id": "68a0be1f-6c47-477c-8437-d38a706bf644",
+    "items_count": 3,
+    "total_amount": 489.0,
+    "currency": "CAD",
+    "product": "Sheet Set",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-08-05T05:13:55.163741Z"
+  },
+  {
+    "id": "06ada517-9f87-4c47-8484-27a46f30df35",
+    "user_id": "e4f2aa08-5235-4b56-a50e-82ab91fdaa9c",
+    "items_count": 3,
+    "total_amount": 417.0,
+    "currency": "CAD",
+    "product": "Travel Case",
+    "payment_method": "card",
+    "purchased_at": "2025-07-17T02:16:55.163741Z"
+  },
+  {
+    "id": "58aeabd7-de79-4b48-a32b-6202783ea7ec",
+    "user_id": "ae5ee390-2a89-4b33-9765-96f7f4e060ad",
+    "items_count": 2,
+    "total_amount": 636.0,
+    "currency": "GBP",
+    "product": "Protector",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-30T13:59:55.163741Z"
+  },
+  {
+    "id": "c666944c-fba2-4b67-b275-3b4b0d7dd04e",
+    "user_id": "3a2a3ff8-734e-4c92-925e-e365a3922023",
+    "items_count": 1,
+    "total_amount": 325.0,
+    "currency": "CAD",
+    "product": "Bed Frame",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-20T19:18:55.163741Z"
+  },
+  {
+    "id": "08dd5b19-816a-419b-9b1c-6302ea1d0998",
+    "user_id": "a1d5d30c-1eef-4aaf-a526-77288b2daeae",
+    "items_count": 1,
+    "total_amount": 337.0,
+    "currency": "CAD",
+    "product": "Protector",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-15T15:56:55.163741Z"
+  },
+  {
+    "id": "51c54723-3cf0-4090-a401-3a8eb783bcc9",
+    "user_id": "954e55a1-eef0-4de5-a840-e2c09ec03373",
+    "items_count": 1,
+    "total_amount": 219.0,
+    "currency": "USD",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-08-03T05:57:55.163741Z"
+  },
+  {
+    "id": "1fd8080b-139a-46c9-beae-c18959c866c2",
+    "user_id": "65899ca8-570d-4b91-961a-42a75ce3d4ff",
+    "items_count": 1,
+    "total_amount": 76.0,
+    "currency": "GBP",
+    "product": "Protector",
+    "payment_method": "card",
+    "purchased_at": "2025-06-14T21:44:55.163741Z"
+  },
+  {
+    "id": "8de5e95b-0164-4d98-8352-787cdece0c42",
+    "user_id": "343607d8-cfe4-4a64-9dce-2eb4599ef233",
+    "items_count": 3,
+    "total_amount": 1179.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-14T12:52:55.163741Z"
+  },
+  {
+    "id": "e957c693-e86c-46c0-94b8-7ff7c8ee16d5",
+    "user_id": "d021c0b2-bbe1-47eb-9714-29742fd50873",
+    "items_count": 1,
+    "total_amount": 158.0,
+    "currency": "EUR",
+    "product": "Cooling Mattress",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-06-11T15:57:55.163741Z"
+  },
+  {
+    "id": "f478924f-0baf-44c0-885f-30e0370dc520",
+    "user_id": "50cc5d51-100d-4a4a-82e3-39e28352ed25",
+    "items_count": 3,
+    "total_amount": 462.0,
+    "currency": "CAD",
+    "product": "Bed Frame",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-20T14:34:55.163741Z"
+  },
+  {
+    "id": "6ca9eb5c-b946-4cf8-9163-dd2b044ed89f",
+    "user_id": "3a2a3ff8-734e-4c92-925e-e365a3922023",
+    "items_count": 2,
+    "total_amount": 646.0,
+    "currency": "GBP",
+    "product": "Sheet Set",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-16T06:43:55.163741Z"
+  },
+  {
+    "id": "c918d941-a582-40fb-b3df-3c396e092b83",
+    "user_id": "4f43ff83-d511-42f0-9c52-921cac2c78a6",
+    "items_count": 2,
+    "total_amount": 200.0,
+    "currency": "CAD",
+    "product": "Duvet",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-16T13:33:55.163741Z"
+  },
+  {
+    "id": "1df7a0d1-a01b-4edd-bb8b-189f3c8e7787",
+    "user_id": "14ac17ff-433f-4fc9-bf1b-f2e0825627f0",
+    "items_count": 1,
+    "total_amount": 338.0,
+    "currency": "EUR",
+    "product": "Smart Pillow",
+    "payment_method": "card",
+    "purchased_at": "2025-07-23T05:20:55.163741Z"
+  },
+  {
+    "id": "12b6ec00-cdb2-48ea-976f-aa87a87ff464",
+    "user_id": "0706f732-aeb3-45bd-bcd3-d0a431db8290",
+    "items_count": 3,
+    "total_amount": 789.0,
+    "currency": "GBP",
+    "product": "Smart Pillow",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-18T16:22:55.163741Z"
+  },
+  {
+    "id": "97e1654e-16a5-4223-a48c-f90e39a49b8a",
+    "user_id": "3a2a3ff8-734e-4c92-925e-e365a3922023",
+    "items_count": 3,
+    "total_amount": 525.0,
+    "currency": "CAD",
+    "product": "Duvet",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-21T07:33:55.163741Z"
+  },
+  {
+    "id": "6998d6c0-0d5b-456b-9e1d-0c726afdebfb",
+    "user_id": "65899ca8-570d-4b91-961a-42a75ce3d4ff",
+    "items_count": 3,
+    "total_amount": 903.0,
+    "currency": "CAD",
+    "product": "Smart Pillow",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-29T19:27:55.163741Z"
+  },
+  {
+    "id": "c2a7d8fc-fee8-48d5-8ecd-139e6dc930bf",
+    "user_id": "65899ca8-570d-4b91-961a-42a75ce3d4ff",
+    "items_count": 3,
+    "total_amount": 900.0,
+    "currency": "EUR",
+    "product": "Pod Cover",
+    "payment_method": "card",
+    "purchased_at": "2025-06-16T21:41:55.163741Z"
+  },
+  {
+    "id": "fb031129-293c-42d8-8ac6-86e3cb78dbcd",
+    "user_id": "ae5ee390-2a89-4b33-9765-96f7f4e060ad",
+    "items_count": 1,
+    "total_amount": 53.0,
+    "currency": "CAD",
+    "product": "Smart Pillow",
+    "payment_method": "paypal",
+    "purchased_at": "2025-08-04T19:04:55.163741Z"
+  },
+  {
+    "id": "ac9f2326-7899-4a81-909b-8f58ca2c3f2a",
+    "user_id": "37d340bd-b96c-4a8a-a03e-1f086599e027",
+    "items_count": 1,
+    "total_amount": 308.0,
+    "currency": "CAD",
+    "product": "Duvet",
+    "payment_method": "card",
+    "purchased_at": "2025-06-30T02:27:55.163741Z"
+  },
+  {
+    "id": "4d46d324-703e-442c-82c6-df6e96db6733",
+    "user_id": "ae5ee390-2a89-4b33-9765-96f7f4e060ad",
+    "items_count": 3,
+    "total_amount": 891.0,
+    "currency": "CAD",
+    "product": "Pod Cover",
+    "payment_method": "card",
+    "purchased_at": "2025-07-05T05:24:55.163741Z"
+  },
+  {
+    "id": "29ab80cc-0230-4b7f-b1b4-df02899b6c0a",
+    "user_id": "14ac17ff-433f-4fc9-bf1b-f2e0825627f0",
+    "items_count": 1,
+    "total_amount": 58.0,
+    "currency": "GBP",
+    "product": "Sheet Set",
+    "payment_method": "card",
+    "purchased_at": "2025-07-07T00:24:55.163741Z"
+  },
+  {
+    "id": "8d62c62f-7848-4884-b689-f6aab62c21ca",
+    "user_id": "99a30d30-7b13-47e5-8fa4-84c2793fe0f0",
+    "items_count": 2,
+    "total_amount": 282.0,
+    "currency": "USD",
+    "product": "Cooling Mattress",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-24T17:40:55.163741Z"
+  },
+  {
+    "id": "fcad505b-cde3-4220-8aa8-568af4b21f88",
+    "user_id": "15fad119-0a8d-4b55-9785-975619866147",
+    "items_count": 3,
+    "total_amount": 537.0,
+    "currency": "GBP",
+    "product": "Sheet Set",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-03T11:29:55.163741Z"
+  },
+  {
+    "id": "b75e7acd-29a6-4e37-822c-c3af726e55e2",
+    "user_id": "3d89cfb3-e61d-44d8-ad8c-33b25c8ff8a8",
+    "items_count": 2,
+    "total_amount": 678.0,
+    "currency": "EUR",
+    "product": "Bed Frame",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-26T21:28:55.163741Z"
+  },
+  {
+    "id": "7e674854-2265-4f7e-8273-768df634a899",
+    "user_id": "c4d44576-ba3e-4a4c-868b-caa4bec31e57",
+    "items_count": 3,
+    "total_amount": 198.0,
+    "currency": "USD",
+    "product": "Protector",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-15T05:22:55.163741Z"
+  },
+  {
+    "id": "ad159bfe-bb85-4aab-9f43-487c8a76f8f3",
+    "user_id": "f3025738-f7df-4ad8-988c-2c56cb8e9480",
+    "items_count": 1,
+    "total_amount": 376.0,
+    "currency": "USD",
+    "product": "Smart Pillow",
+    "payment_method": "card",
+    "purchased_at": "2025-07-08T09:25:55.163741Z"
+  },
+  {
+    "id": "8fd75822-dcd2-41a2-9aeb-b1dc843f5282",
+    "user_id": "34a0f272-a161-4111-b22a-bf34f2fe2bb0",
+    "items_count": 2,
+    "total_amount": 678.0,
+    "currency": "USD",
+    "product": "Pod Cover",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-26T00:36:55.163741Z"
+  },
+  {
+    "id": "9c8403ff-1eeb-47ed-9cda-4118fbf5ac42",
+    "user_id": "7281e1df-b93a-4ade-b1a2-2e3a58ae975c",
+    "items_count": 2,
+    "total_amount": 376.0,
+    "currency": "USD",
+    "product": "Cooling Mattress",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-12T05:41:55.163741Z"
+  },
+  {
+    "id": "b57492ef-fd03-429f-ba2a-8cd25d4fad5d",
+    "user_id": "7281e1df-b93a-4ade-b1a2-2e3a58ae975c",
+    "items_count": 3,
+    "total_amount": 198.0,
+    "currency": "EUR",
+    "product": "Duvet",
+    "payment_method": "card",
+    "purchased_at": "2025-07-26T04:11:55.163741Z"
+  },
+  {
+    "id": "793d8508-2948-493c-9a95-0eec40239c89",
+    "user_id": "bef70684-45f0-4d25-8a3a-8225662322eb",
+    "items_count": 3,
+    "total_amount": 759.0,
+    "currency": "USD",
+    "product": "Sheet Set",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-03T16:01:55.163741Z"
+  },
+  {
+    "id": "6fc301fe-038f-4056-97e4-58bc2d1a3eed",
+    "user_id": "7281e1df-b93a-4ade-b1a2-2e3a58ae975c",
+    "items_count": 2,
+    "total_amount": 792.0,
+    "currency": "GBP",
+    "product": "Protector",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-19T00:42:55.163741Z"
+  },
+  {
+    "id": "0d2ec383-53f4-4f92-b2d6-22215709cb93",
+    "user_id": "65899ca8-570d-4b91-961a-42a75ce3d4ff",
+    "items_count": 1,
+    "total_amount": 306.0,
+    "currency": "GBP",
+    "product": "Pod Cover",
+    "payment_method": "card",
+    "purchased_at": "2025-07-12T16:18:55.163741Z"
+  },
+  {
+    "id": "c6dbff91-ad1a-4e2c-98f8-053e678af2f9",
+    "user_id": "b5305c14-b7bf-40a4-a382-66c78d2a4eb5",
+    "items_count": 2,
+    "total_amount": 718.0,
+    "currency": "CAD",
+    "product": "Duvet",
+    "payment_method": "card",
+    "purchased_at": "2025-06-29T14:54:55.163741Z"
+  },
+  {
+    "id": "88c261c1-020e-4fd3-8c86-a941ef9d7c91",
+    "user_id": "f7f44703-8bf8-4083-b639-d38da66d456f",
+    "items_count": 2,
+    "total_amount": 332.0,
+    "currency": "GBP",
+    "product": "Protector",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-28T01:01:55.163741Z"
+  },
+  {
+    "id": "308665c4-f70f-4a1c-b0ae-6fd97cf60fd0",
+    "user_id": "0706f732-aeb3-45bd-bcd3-d0a431db8290",
+    "items_count": 3,
+    "total_amount": 732.0,
+    "currency": "USD",
+    "product": "Sheet Set",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-24T21:43:55.163741Z"
+  },
+  {
+    "id": "321a5047-d556-4bc8-a1be-8a7ae2b7b515",
+    "user_id": "12276ad1-c587-4c01-b8f7-85aa25c523cf",
+    "items_count": 2,
+    "total_amount": 256.0,
+    "currency": "CAD",
+    "product": "Smart Pillow",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-19T11:55:55.163741Z"
+  },
+  {
+    "id": "9bbda7bc-f4a2-42c7-9b3d-a463ef6bc9cb",
+    "user_id": "dff35862-8a5c-4d2e-98de-30b44f6f283c",
+    "items_count": 1,
+    "total_amount": 52.0,
+    "currency": "GBP",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-21T15:01:55.163741Z"
+  },
+  {
+    "id": "99a0eba8-d965-49b9-ba19-a0ab466fd813",
+    "user_id": "dff35862-8a5c-4d2e-98de-30b44f6f283c",
+    "items_count": 1,
+    "total_amount": 94.0,
+    "currency": "EUR",
+    "product": "Protector",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-04T05:17:55.163741Z"
+  },
+  {
+    "id": "3f5de9f3-1c06-4af7-98b8-c92211c4450d",
+    "user_id": "1b43c907-2062-4edf-b328-0b893186acec",
+    "items_count": 2,
+    "total_amount": 204.0,
+    "currency": "USD",
+    "product": "Cooling Mattress",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-04T21:03:55.163741Z"
+  },
+  {
+    "id": "b55f9fe6-6516-4b4c-a720-20d5b4a55c75",
+    "user_id": "0127bb8b-04b7-4f06-936c-1c91a422dccf",
+    "items_count": 3,
+    "total_amount": 648.0,
+    "currency": "CAD",
+    "product": "Pod Cover",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-13T10:59:55.163741Z"
+  },
+  {
+    "id": "44f004c7-88ee-41df-9945-e9b4d6f41c60",
+    "user_id": "464a3fa4-36aa-41e5-8ff7-d65548af561b",
+    "items_count": 1,
+    "total_amount": 336.0,
+    "currency": "EUR",
+    "product": "Smart Pillow",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-29T19:29:55.163741Z"
+  },
+  {
+    "id": "679ec48d-f994-4396-8de1-52e052d001e3",
+    "user_id": "7c5f04f2-fd12-4350-b38e-eadf321a8897",
+    "items_count": 2,
+    "total_amount": 374.0,
+    "currency": "CAD",
+    "product": "Smart Pillow",
+    "payment_method": "card",
+    "purchased_at": "2025-07-29T09:23:55.163741Z"
+  },
+  {
+    "id": "50e38bcf-18cb-4670-abf0-04830e00a6ef",
+    "user_id": "7914346d-543b-4855-b689-1287d6043409",
+    "items_count": 2,
+    "total_amount": 406.0,
+    "currency": "CAD",
+    "product": "Cooling Mattress",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-23T15:48:55.163741Z"
+  },
+  {
+    "id": "3097671c-edda-456f-89bb-e0ea9616f985",
+    "user_id": "65899ca8-570d-4b91-961a-42a75ce3d4ff",
+    "items_count": 3,
+    "total_amount": 909.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "card",
+    "purchased_at": "2025-07-31T13:50:55.163741Z"
+  },
+  {
+    "id": "19b6be99-7da8-4001-90be-f95830df71c5",
+    "user_id": "c04c9128-5443-4465-8d6b-e579e7d26c09",
+    "items_count": 2,
+    "total_amount": 440.0,
+    "currency": "CAD",
+    "product": "Duvet",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-18T09:32:55.163741Z"
+  },
+  {
+    "id": "4928cf6a-de9a-4d17-95bb-bd0148189b01",
+    "user_id": "c4d44576-ba3e-4a4c-868b-caa4bec31e57",
+    "items_count": 3,
+    "total_amount": 357.0,
+    "currency": "GBP",
+    "product": "Duvet",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-09T13:30:55.163741Z"
+  },
+  {
+    "id": "00b86dd8-ad97-4e16-8153-556a4d02b3e1",
+    "user_id": "9f1ea8cd-345c-4878-afa9-97808670492b",
+    "items_count": 2,
+    "total_amount": 426.0,
+    "currency": "GBP",
+    "product": "Travel Case",
+    "payment_method": "paypal",
+    "purchased_at": "2025-07-19T11:23:55.163741Z"
+  },
+  {
+    "id": "48a65378-9ce2-4811-927d-b4b765bc15e4",
+    "user_id": "7914346d-543b-4855-b689-1287d6043409",
+    "items_count": 2,
+    "total_amount": 472.0,
+    "currency": "USD",
+    "product": "Bed Frame",
+    "payment_method": "paypal",
+    "purchased_at": "2025-06-26T05:27:55.163741Z"
+  },
+  {
+    "id": "5ff265e3-e6c0-4d50-804e-3e097c20adc5",
+    "user_id": "a9f2dfa6-2633-4d17-b5bc-e6208269b607",
+    "items_count": 3,
+    "total_amount": 858.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-16T00:35:55.163741Z"
+  },
+  {
+    "id": "d4195e39-c852-4619-bd37-d133ec1ab388",
+    "user_id": "06480127-a897-438d-b5b6-b09fb290d656",
+    "items_count": 2,
+    "total_amount": 788.0,
+    "currency": "CAD",
+    "product": "Smart Pillow",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-24T15:36:55.163741Z"
+  },
+  {
+    "id": "2a033ab5-1f14-4592-a9de-c2cc21258db4",
+    "user_id": "68a0be1f-6c47-477c-8437-d38a706bf644",
+    "items_count": 1,
+    "total_amount": 266.0,
+    "currency": "CAD",
+    "product": "Cooling Mattress",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-07-01T07:52:55.163741Z"
+  },
+  {
+    "id": "b9b3413b-c490-47ed-a053-98dfdc75ce36",
+    "user_id": "0706f732-aeb3-45bd-bcd3-d0a431db8290",
+    "items_count": 2,
+    "total_amount": 646.0,
+    "currency": "CAD",
+    "product": "Pod Cover",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-06-25T05:54:55.163741Z"
+  },
+  {
+    "id": "9376127c-2b65-4ef4-9808-d6d1a6c3aae5",
+    "user_id": "0127bb8b-04b7-4f06-936c-1c91a422dccf",
+    "items_count": 3,
+    "total_amount": 279.0,
+    "currency": "USD",
+    "product": "Bed Frame",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-29T02:08:55.163741Z"
+  },
+  {
+    "id": "7ae91264-808c-48f5-9ecd-020c833f1273",
+    "user_id": "250db2ef-729f-4d6d-bd4c-bdc6a3addb4a",
+    "items_count": 1,
+    "total_amount": 338.0,
+    "currency": "CAD",
+    "product": "Duvet",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-02T23:52:55.163741Z"
+  },
+  {
+    "id": "c89df1f1-09f0-4c7f-abb5-9d9538cebe73",
+    "user_id": "2f92a281-60ef-4b89-91bf-602874c4353f",
+    "items_count": 2,
+    "total_amount": 326.0,
+    "currency": "EUR",
+    "product": "Travel Case",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-14T08:25:55.163741Z"
+  },
+  {
+    "id": "0aceb606-41fa-4c7b-b07f-814c6f1fc13b",
+    "user_id": "c53755ba-d427-4783-903a-a1133c8c4d49",
+    "items_count": 3,
+    "total_amount": 1053.0,
+    "currency": "EUR",
+    "product": "Duvet",
+    "payment_method": "card",
+    "purchased_at": "2025-07-09T20:39:55.163741Z"
+  },
+  {
+    "id": "f9ae44a1-9b62-44c6-ab50-d2339a1a032b",
+    "user_id": "dec4a03b-7cb1-4a0f-af4f-6e913bd01dfb",
+    "items_count": 2,
+    "total_amount": 186.0,
+    "currency": "USD",
+    "product": "Smart Pillow",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-07-20T12:31:55.163741Z"
+  },
+  {
+    "id": "c6ec8d99-9720-4d60-a859-33acdcbdb176",
+    "user_id": "59dca371-dc77-4545-bd4f-18cc4c1cb009",
+    "items_count": 1,
+    "total_amount": 316.0,
+    "currency": "CAD",
+    "product": "Duvet",
+    "payment_method": "google_pay",
+    "purchased_at": "2025-08-02T09:16:55.163741Z"
+  },
+  {
+    "id": "6e701b3a-a112-49f7-a912-b816941b4022",
+    "user_id": "65899ca8-570d-4b91-961a-42a75ce3d4ff",
+    "items_count": 3,
+    "total_amount": 843.0,
+    "currency": "GBP",
+    "product": "Cooling Mattress",
+    "payment_method": "apple_pay",
+    "purchased_at": "2025-08-06T20:18:55.163741Z"
+  }
+]
